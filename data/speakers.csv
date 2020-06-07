@@ -1,0 +1,757 @@
+speaker_id;title;firstname;affix;lastname;role;group
+11002190;NA;Alterspräsident Dr. Hermann;NA;Otto Solms;Alterspräsident;NA
+11003218;NA;Carsten;NA;Schneider;NA;SPD
+11003790;NA;Jan;NA;Korte;NA;DIE LINKE
+11003541;NA;Michael;NA;Grosse-Brömer;NA;CDU/CSU
+11003764;NA;Britta;NA;Haßelmann;NA;BÜNDNIS 90/DIE GRÜNEN
+11001074;NA;Volker;NA;Kauder;NA;CDU/CSU
+11001938;Dr.;Wolfgang;NA;Schäuble;NA;CDU/CSU
+11003124;Dr.;Hans-Peter;NA;Friedrich;NA;CDU/CSU
+11003820;NA;Thomas;NA;Oppermann;NA;SPD
+11003206;NA;Petra;NA;Pau;NA;DIE LINKE
+11003212;NA;Claudia;NA;Roth;NA;BÜNDNIS 90/DIE GRÜNEN
+11004662;Dr.;Bernd;NA;Baumann;NA;AfD
+11004023;Dr.;Marco;NA;Buschmann;NA;FDP
+11004092;Dr.;Ursula;von der;Leyen;Bundesministerin BMVg;NA
+11004226;NA;Wolfgang;NA;Hellmich;NA;SPD
+11004842;NA;Jan Ralf;NA;Nolte;NA;AfD
+11004798;NA;Alexander Graf;Graf;Lambsdorff;NA;FDP
+11004361;Dr.;Alexander S.;NA;Neu;NA;DIE LINKE
+11004217;Dr.;Tobias;NA;Lindner;NA;BÜNDNIS 90/DIE GRÜNEN
+11004050;NA;Jürgen;NA;Hardt;NA;CDU/CSU
+11004438;NA;Gabi;NA;Weber;NA;SPD
+11004018;Dr.;Reinhard;NA;Brandl;NA;CDU/CSU
+11003755;NA;Sigmar;NA;Gabriel;Bundesminister AA;NA
+11004781;NA;Norbert;NA;Kleinwächter;NA;AfD
+11003802;NA;Michael Georg;NA;Link;NA;FDP
+11003746;NA;Sevim;NA;Dağdelen;NA;DIE LINKE
+11004106;NA;Agnieszka;NA;Brugger;NA;BÜNDNIS 90/DIE GRÜNEN
+11003821;NA;Henning;NA;Otte;NA;CDU/CSU
+11004724;Dr.;Eberhardt Alexander;NA;Gauland;NA;AfD
+11003763;NA;Heike;NA;Hänsel;NA;DIE LINKE
+11003246;NA;Jürgen;NA;Trittin;NA;BÜNDNIS 90/DIE GRÜNEN
+11004048;NA;Florian;NA;Hahn;NA;CDU/CSU
+11003055;Dr.;Ralf;NA;Brauksiepe;Parl. Staatssekretär BMVg;NA
+11003710;Dr.;Bärbel;NA;Kofler;NA;SPD
+11004906;Dr.;Marie-Agnes;NA;Strack-Zimmermann;NA;FDP
+11004181;NA;Kathrin;NA;Vogler;NA;DIE LINKE
+11004066;NA;Uwe;NA;Kekeritz;NA;BÜNDNIS 90/DIE GRÜNEN
+11004357;NA;Elisabeth;NA;Motschmann;NA;CDU/CSU
+11004362;Dr.;Andreas;NA;Nick;NA;CDU/CSU
+11003846;NA;Frank;NA;Schwabe;NA;SPD
+11004029;NA;Bijan;NA;Djir-Sarai;NA;FDP
+11004852;NA;Tobias;NA;Pflüger;NA;DIE LINKE
+11004145;Dr.;Frithjof;NA;Schmidt;NA;BÜNDNIS 90/DIE GRÜNEN
+11004276;NA;Thorsten;NA;Frei;NA;CDU/CSU
+11004886;NA;Martin;NA;Schulz;NA;SPD
+11003608;Dr.;Joachim;NA;Pfeiffer;NA;CDU/CSU
+11004695;NA;Tino;NA;Chrupalla;NA;AfD
+11004746;NA;Torsten;NA;Herbst;NA;FDP
+11003753;NA;Klaus;NA;Ernst;NA;DIE LINKE
+11004085;NA;Stephan;NA;Kühn;NA;BÜNDNIS 90/DIE GRÜNEN
+11003796;NA;Andreas G.;NA;Lämmel;NA;CDU/CSU
+11003896;Dr.;Eva;NA;Högl;NA;SPD
+11004751;Dr.;Heiko;NA;Heßenkemper;NA;AfD
+11004339;Dr.;Andreas;NA;Lenz;NA;CDU/CSU
+11004318;NA;Thomas;NA;Jurk;NA;SPD
+11004398;NA;Jana;NA;Schimke;NA;CDU/CSU
+11002617;NA;Peter;NA;Altmaier;Bundesminister BMF;NA
+11004932;Dr.;Harald;NA;Weyel;NA;AfD
+11004705;NA;Christian;NA;Dürr;NA;FDP
+11004817;NA;Fabio;NA;De Masi;NA;DIE LINKE
+11004070;NA;Sven-Christian;NA;Kindler;NA;BÜNDNIS 90/DIE GRÜNEN
+11002738;Dr. h. c.;Hans;NA;Michelbach;NA;CDU/CSU
+11003196;NA;Andrea;NA;Nahles;NA;SPD
+11004669;NA;Marc;NA;Bernhard;NA;AfD
+11004864;NA;Bernd;NA;Reuther;NA;FDP
+11004080;NA;Jutta;NA;Krellmann;NA;DIE LINKE
+11003493;NA;Kerstin;NA;Andreae;NA;BÜNDNIS 90/DIE GRÜNEN
+11004264;NA;Hansjörg;NA;Durz;NA;CDU/CSU
+11004930;Dr.;Alice;NA;Weidel;NA;AfD
+11003826;NA;Eckhardt;NA;Rehberg;NA;CDU/CSU
+11003545;NA;Bettina;NA;Hagedorn;NA;SPD
+11003530;NA;Otto;NA;Fricke;NA;FDP
+11004060;NA;Andrej;NA;Hunko;NA;DIE LINKE
+11003889;NA;Manuel;NA;Sarrazin;NA;BÜNDNIS 90/DIE GRÜNEN
+11002280;NA;Michael;NA;Stübgen;NA;CDU/CSU
+11004605;NA;Christian;NA;Petry;NA;SPD
+11004675;NA;Peter;NA;Boehringer;NA;AfD
+11004186;NA;Harald;NA;Weinberg;NA;DIE LINKE
+11004135;NA;Lothar;NA;Riebsamen;NA;CDU/CSU
+11003797;Dr.;Karl;NA;Lauterbach;NA;SPD
+11004725;Dr.;Axel;NA;Gehrke;NA;AfD
+11004003;NA;Christine;NA;Aschenberg-Dugnus;NA;FDP
+11004072;NA;Maria;NA;Klein-Schmeink;NA;BÜNDNIS 90/DIE GRÜNEN
+11004311;NA;Erich;NA;Irlstorfer;NA;CDU/CSU
+11003588;NA;Hilde;NA;Mattheis;NA;SPD
+11004139;NA;Erwin;NA;Rüddel;NA;CDU/CSU
+11004081;NA;Oliver;NA;Krischer;NA;BÜNDNIS 90/DIE GRÜNEN
+11004440;Dr.;Anja;NA;Weisgerber;NA;CDU/CSU
+11002672;Dr.;Barbara;NA;Hendricks;Bundesministerin BMUB;NA
+11004752;NA;Karsten;NA;Hilse;NA;AfD
+11004786;Dr.;Lukas;NA;Köhler;NA;FDP
+11004672;NA;Lorenz Gösta;NA;Beutin;NA;DIE LINKE
+11003780;NA;Andreas;NA;Jung;NA;CDU/CSU
+11004442;NA;Bernd;NA;Westphal;NA;SPD
+11003732;NA;Niels;NA;Annen;NA;SPD
+11004807;NA;Rüdiger;NA;Lucassen;NA;AfD
+11004075;NA;Pascal;NA;Kober;NA;FDP
+11004022;NA;Christine;NA;Buchholz;NA;DIE LINKE
+11004843;NA;Ulrich;NA;Oehme;NA;AfD
+11004093;NA;Stefan;NA;Liebich;NA;DIE LINKE
+11003881;NA;Omid;NA;Nouripour;NA;BÜNDNIS 90/DIE GRÜNEN
+11002765;Dr.;Norbert;NA;Röttgen;NA;CDU/CSU
+11003599;Dr.;Rolf;NA;Mützenich;NA;SPD
+11004383;NA;Alexander;NA;Radwan;NA;CDU/CSU
+11004735;NA;Armin-Paulus;NA;Hampel;NA;AfD
+11004068;NA;Roderich;NA;Kiesewetter;NA;CDU/CSU
+11004296;NA;Gabriela;NA;Heinrich;NA;SPD
+11004182;Dr.;Johann David;NA;Wadephul;NA;CDU/CSU
+11004291;NA;Sebastian;NA;Hartmann;NA;SPD
+11003589;NA;Stephan;NA;Mayer;NA;CDU/CSU
+11004698;Dr.;Gottfried;NA;Curio;NA;AfD
+11004175;NA;Stephan;NA;Thomae;NA;FDP
+11004837;NA;Zaklin;NA;Nastic;NA;DIE LINKE
+11004857;NA;Filiz;NA;Polat;NA;BÜNDNIS 90/DIE GRÜNEN
+11004056;NA;Ansgar;NA;Heveling;NA;CDU/CSU
+11004079;NA;Daniela;NA;Kolbe;NA;SPD
+11004731;NA;Kay;NA;Gottschalk;NA;AfD
+11004049;Dr.;Stephan;NA;Harbarth;NA;CDU/CSU
+11003782;NA;Josip;NA;Juratovic;NA;SPD
+11001023;NA;Ulla;NA;Jelpke;NA;DIE LINKE
+11004243;NA;Luise;NA;Amtsberg;NA;BÜNDNIS 90/DIE GRÜNEN
+11004811;NA;Jens;NA;Maier;NA;AfD
+11004688;NA;Birke;NA;Bull-Bischoff;NA;DIE LINKE
+11004065;Dr.;Stefan;NA;Kaufmann;NA;CDU/CSU
+11003211;Dr.;Ernst Dieter;NA;Rossmann;NA;SPD
+11004722;Dr.;Götz;NA;Frömming;NA;AfD
+11004910;NA;Katja;NA;Suding;NA;FDP
+11003756;NA;Kai;NA;Gehring;NA;BÜNDNIS 90/DIE GRÜNEN
+11004143;NA;Tankred;NA;Schipanski;NA;CDU/CSU
+11004267;NA;Saskia;NA;Esken;NA;SPD
+11004063;NA;Oliver;NA;Kaczmarek;NA;SPD
+11004256;Dr.;Karl-Heinz;NA;Brunner;NA;SPD
+11004255;Dr.;Franziska;NA;Brantner;NA;BÜNDNIS 90/DIE GRÜNEN
+11004036;NA;Ingo;NA;Gädechens;NA;CDU/CSU
+11004359;NA;Michelle;NA;Müntefering;NA;SPD
+11004714;NA;Peter;NA;Felser;NA;AfD
+11004680;NA;Jürgen;NA;Braun;NA;AfD
+11004439;Dr. h. c.;Albert;NA;Weiler;NA;CDU/CSU
+11004813;Dr.;Birgit;NA;Malsack-Winkemann;NA;AfD
+11004759;NA;Matthias;NA;Höhn;NA;DIE LINKE
+11004900;NA;René;NA;Springer;NA;AfD
+11004720;Dr.;Anton;NA;Friesen;NA;AfD
+11004826;NA;Siemtje;NA;Möller;NA;SPD
+11004777;NA;Jens;NA;Kestner;NA;AfD
+11004067;NA;Katja;NA;Keul;NA;BÜNDNIS 90/DIE GRÜNEN
+11004378;NA;Achim;NA;Post;NA;SPD
+11004152;NA;Detlef;NA;Seif;NA;CDU/CSU
+11004921;NA;Markus;NA;Töns;NA;SPD
+11004740;NA;Martin;NA;Hebner;NA;AfD
+11004272;Dr.;Fritz;NA;Felgentreu;NA;SPD
+11004787;NA;Enrico;NA;Komning;NA;AfD
+11004763;NA;Reinhard;NA;Houben;NA;FDP
+11004103;NA;Thomas;NA;Lutze;NA;DIE LINKE
+11004830;NA;Claudia;NA;Müller;NA;BÜNDNIS 90/DIE GRÜNEN
+11004696;NA;Joana Eleonora;NA;Cotar;NA;AfD
+11003865;NA;Elisabeth;NA;Winkelmeier-Becker;NA;CDU/CSU
+11004270;Dr.;Johannes;NA;Fechner;NA;SPD
+11004668;NA;Nicola;NA;Beer;NA;FDP
+11004707;NA;Thomas;NA;Ehrhorn;NA;AfD
+11004721;NA;Markus;NA;Frohnmaier;NA;AfD
+11004703;NA;Anke;NA;Domscheit-Berg;NA;DIE LINKE
+11004138;NA;Tabea;NA;Rößner;NA;BÜNDNIS 90/DIE GRÜNEN
+11004061;NA;Thomas;NA;Jarzombek;NA;CDU/CSU
+11004603;Dr.;Jens;NA;Zimmermann;NA;SPD
+11004304;NA;Alexander;NA;Hoffmann;NA;CDU/CSU
+11004057;NA;Manuel;NA;Höferlin;NA;FDP
+11004678;NA;Stephan;NA;Brandner;NA;AfD
+11004851;Dr.;Frauke;NA;Petry;NA;fraktionslos
+11004114;NA;Niema;NA;Movassat;NA;DIE LINKE
+11004123;Dr.;Konstantin;NA;von Notz;NA;BÜNDNIS 90/DIE GRÜNEN
+11004427;Dr.;Volker;NA;Ullrich;NA;CDU/CSU
+11003034;Dr.;Dietmar;NA;Bartsch;NA;DIE LINKE
+11004098;Dr.;Carsten;NA;Linnemann;NA;CDU/CSU
+11004392;NA;Bernd;NA;Rützel;NA;SPD
+11004791;NA;Steffen;NA;Kotré;NA;AfD
+11004914;NA;Michael;NA;Theurer;NA;FDP
+11004263;NA;Katharina;NA;Dröge;NA;BÜNDNIS 90/DIE GRÜNEN
+11004039;NA;Michael;NA;Gerdes;NA;SPD
+11003255;NA;Peter;NA;Weiß;NA;CDU/CSU
+11004215;NA;Harald;NA;Ebner;NA;BÜNDNIS 90/DIE GRÜNEN
+11004269;NA;Hermann;NA;Färber;NA;CDU/CSU
+11003576;NA;Renate;NA;Künast;NA;BÜNDNIS 90/DIE GRÜNEN
+11004858;NA;Stephan;NA;Protschka;NA;AfD
+11003132;NA;Katrin;NA;Göring-Eckardt;NA;BÜNDNIS 90/DIE GRÜNEN
+11004894;NA;Frank;NA;Sitta;NA;FDP
+11003853;Dr.;Kirsten;NA;Tackmann;NA;DIE LINKE
+11003596;NA;Marlene;NA;Mortler;NA;CDU/CSU
+11004287;NA;Rita;NA;Hagl-Kehl;NA;SPD
+11004105;Dr.;Thomas;de;Maizière;Bundesminister BMI;NA
+11004441;NA;Marian;NA;Wendt;NA;CDU/CSU
+11004342;NA;Andrea;NA;Lindholz;NA;CDU/CSU
+11004748;NA;Lars;NA;Herrmann;NA;AfD
+11004907;NA;Friedrich;NA;Straetmanns;NA;DIE LINKE
+11004801;NA;Sven;NA;Lehmann;NA;BÜNDNIS 90/DIE GRÜNEN
+11004034;NA;Michael;NA;Frieser;NA;CDU/CSU
+11004905;NA;Beatrix;NA;von Storch;NA;AfD
+11004396;Dr.;Nina;NA;Scheer;NA;SPD
+11004329;NA;Arno;NA;Klare;NA;SPD
+11004433;NA;Dirk;NA;Vöpel;NA;SPD
+11004010;NA;Peter;NA;Beyer;NA;CDU/CSU
+11004846;NA;Gerold;NA;Otten;NA;AfD
+11001434;NA;Christoph;NA;Matschie;NA;SPD
+11004778;NA;Stefan;NA;Keuter;NA;AfD
+11004164;NA;Sonja Amalie;NA;Steffen;NA;SPD
+11004796;NA;Konstantin Elias;NA;Kuhle;NA;FDP
+11004088;NA;Caren;NA;Lay;NA;DIE LINKE
+11004259;Dr.;Karamba;NA;Diaby;NA;SPD
+11004391;NA;Susann;NA;Rüthrich;NA;SPD
+11004305;Dr.;Hendrik;NA;Hoppenstedt;NA;CDU/CSU
+11004863;NA;Roman Johannes;NA;Reusch;NA;AfD
+11004288;Dr.;André;NA;Hahn;NA;DIE LINKE
+11004100;Dr.;Jan-Marco;NA;Luczak;NA;CDU/CSU
+11004248;Dr.;Matthias;NA;Bartke;NA;SPD
+11004149;NA;Armin;NA;Schuster;NA;CDU/CSU
+11004257;Dr.;Lars;NA;Castellucci;NA;SPD
+11004908;NA;Benjamin;NA;Strasser;NA;FDP
+11004282;NA;Uli;NA;Grötsch;NA;SPD
+11003856;Dr.;Florian;NA;Toncar;NA;FDP
+11004021;NA;Ralph;NA;Brinkhaus;NA;CDU/CSU
+11003157;NA;Johannes;NA;Kahrs;NA;SPD
+11003858;NA;Alexander;NA;Ulrich;NA;DIE LINKE
+11003837;Dr.;Gerhard;NA;Schick;NA;BÜNDNIS 90/DIE GRÜNEN
+11004280;NA;Ursula;NA;Groden-Kranich;NA;CDU/CSU
+11003784;NA;Alois;NA;Karl;NA;CDU/CSU
+11004865;NA;Bernd;NA;Riexinger;NA;DIE LINKE
+11004192;Dr.;Matthias;NA;Zimmer;NA;CDU/CSU
+11004856;NA;Jürgen;NA;Pohl;NA;AfD
+11004179;NA;Johannes;NA;Vogel;NA;FDP
+11004117;NA;Beate;NA;Müller-Gemmeke;NA;BÜNDNIS 90/DIE GRÜNEN
+11004365;NA;Wilfried;NA;Oellers;NA;CDU/CSU
+11003440;NA;Kerstin;NA;Griese;NA;SPD
+11004127;NA;Lisa;NA;Paus;NA;BÜNDNIS 90/DIE GRÜNEN
+11004110;Dr.;Mathias;NA;Middelberg;NA;CDU/CSU
+11003050;NA;Lothar;NA;Binding;NA;SPD
+11004761;NA;Leif-Erik;NA;Holm;NA;AfD
+11004271;NA;Uwe;NA;Feiler;NA;CDU/CSU
+11004247;Dr.;Katarina;NA;Barley;Bundesministerin  BMFSFJ;NA
+11004370;NA;Sylvia;NA;Pantel;NA;CDU/CSU
+11004764;NA;Johannes;NA;Huber;NA;AfD
+11004188;NA;Katrin;NA;Werner;NA;DIE LINKE
+11004652;NA;Grigorios;NA;Aggelidis;NA;FDP
+11004030;NA;Katja;NA;Dörner;NA;BÜNDNIS 90/DIE GRÜNEN
+11004859;NA;Martin;NA;Reichardt;NA;AfD
+11004771;NA;Elisabeth;NA;Kaiser;NA;SPD
+11004660;NA;Simone;NA;Barrientos;NA;DIE LINKE
+11004116;NA;Nadine;NA;Schön;NA;CDU/CSU
+11004753;NA;Nicole;NA;Höchst;NA;AfD
+11004150;NA;Stefan;NA;Schwartze;NA;SPD
+11004613;NA;Norbert;NA;Müller;NA;DIE LINKE
+11004773;Dr.;Kirsten;NA;Kappert-Gonther;NA;BÜNDNIS 90/DIE GRÜNEN
+11004754;Dr.;Gero Clemens;NA;Hocker;NA;FDP
+11003527;Dr.;Maria;NA;Flachsbarth;Parl. Staatssekretärin BMEL;NA
+11003638;NA;Jens;NA;Spahn;Parl. Staatssekretär BMF;NA
+11003514;NA;Gitta;NA;Connemann;NA;CDU/CSU
+11004404;NA;Ursula;NA;Schulte;NA;SPD
+11004728;NA;Franziska;NA;Gminder;NA;AfD
+11004823;NA;Amira Mohamed;NA;Ali;NA;DIE LINKE
+11003772;Dr.;Anton;NA;Hofreiter;NA;BÜNDNIS 90/DIE GRÜNEN
+11004033;Dr.;Edgar;NA;Franke;NA;SPD
+11004384;NA;Alois;NA;Rainer;NA;CDU/CSU
+11004393;NA;Johann;NA;Saathoff;NA;SPD
+11004140;Dr.;Stefan;NA;Ruppert;NA;FDP
+11003516;NA;Alexander;NA;Dobrindt;NA;CDU/CSU
+11004802;NA;Helge;NA;Lindh;NA;SPD
+11003573;NA;Gunther;NA;Krichbaum;NA;CDU/CSU
+11004881;NA;Johannes;NA;Schraps;NA;SPD
+11004302;Dr.;Heribert;NA;Hirte;NA;CDU/CSU
+11004614;NA;Angelika;NA;Glöckner;NA;SPD
+11004349;NA;Matern;NA;von Marschall;NA;CDU/CSU
+11004789;NA;Carina;NA;Konrad;NA;FDP
+11004107;NA;Hans-Georg;NA;von der Marwitz;NA;CDU/CSU
+11004410;NA;Rainer;NA;Spiering;NA;SPD
+11004888;NA;Uwe;NA;Schulz;NA;AfD
+11004250;NA;Maik;NA;Beermann;NA;CDU/CSU
+11003639;NA;Christian Freiherr von;Freiherr;Stetten;NA;CDU/CSU
+11004328;NA;Cansel;NA;Kiziltepe;NA;SPD
+11004727;NA;Albrecht;NA;Glaser;NA;AfD
+11004363;NA;Ulli;NA;Nissen;NA;SPD
+11004866;Dr.;Manuela;NA;Rottmann;NA;BÜNDNIS 90/DIE GRÜNEN
+11004659;NA;Lisa;NA;Badum;NA;BÜNDNIS 90/DIE GRÜNEN
+11003734;NA;Thomas;NA;Bareiß;NA;CDU/CSU
+11004429;Dr.;Julia;NA;Verlinden;NA;BÜNDNIS 90/DIE GRÜNEN
+11003847;NA;Rita;NA;Schwarzelühr-Sutter;Parl. Staatssekretärin BMUB;NA
+11004792;Dr.;Rainer;NA;Kraft;NA;AfD
+11004929;NA;Sandra;NA;Weeser;NA;FDP
+11004844;NA;Josephine;NA;Ortleb;NA;SPD
+11004111;NA;Cornelia;NA;Möhring;NA;DIE LINKE
+11004395;NA;Ulle;NA;Schauws;NA;BÜNDNIS 90/DIE GRÜNEN
+11003216;NA;Anita;NA;Schäfer;NA;CDU/CSU
+11004336;Dr.;Silke;NA;Launert;NA;CDU/CSU
+11004385;NA;Martina;NA;Renner;NA;DIE LINKE
+11004353;NA;Irene;NA;Mihalic;NA;BÜNDNIS 90/DIE GRÜNEN
+11004710;Dr.;Wiebke;NA;Esdar;NA;SPD
+11004690;NA;Karlheinz;NA;Busen;NA;FDP
+11004040;NA;Alois;NA;Gerig;NA;CDU/CSU
+11004355;NA;Susanne;NA;Mittag;NA;SPD
+11003604;NA;Friedrich;NA;Ostendorff;NA;BÜNDNIS 90/DIE GRÜNEN
+11003832;NA;Johannes;NA;Röring;NA;CDU/CSU
+11004892;NA;Martin;NA;Sichert;NA;AfD
+11004099;NA;Burkhard;NA;Lischka;NA;SPD
+11004448;NA;Gülistan;NA;Yüksel;NA;SPD
+11004890;NA;Matthias;NA;Seestern-Pauly;NA;FDP
+11003861;NA;Marcus;NA;Weinberg;NA;CDU/CSU
+11003869;NA;Sabine;NA;Zimmermann;NA;DIE LINKE
+11003578;NA;Markus;NA;Kurth;NA;BÜNDNIS 90/DIE GRÜNEN
+11004389;Dr.;Martin;NA;Rosemann;NA;SPD
+11004169;NA;Stephan;NA;Stracke;NA;CDU/CSU
+11004303;NA;Thomas;NA;Hitschler;NA;SPD
+11000365;Dr.;Diether;NA;Dehm;NA;DIE LINKE
+11002716;Dr. Dr. h. c.;Karl A.;NA;Lamers;NA;CDU/CSU
+11004405;NA;Kordula;NA;Schulz-Asche;NA;BÜNDNIS 90/DIE GRÜNEN
+11004244;NA;Heike;NA;Baehrens;NA;SPD
+11004875;Dr.;Robby;NA;Schlund;NA;AfD
+11004931;NA;Nicole;NA;Westig;NA;FDP
+11004454;NA;Pia;NA;Zimmermann;NA;DIE LINKE
+11004825;NA;Claudia;NA;Moll;NA;SPD
+999999986755;NA;François;NA;de Rugy;Präsident der  Assemblée nationale;NA
+11004097;NA;Christian;NA;Lindner;NA;FDP
+11004183;Dr.;Sahra;NA;Wagenknecht;NA;DIE LINKE
+11002746;NA;Cem;NA;Özdemir;NA;BÜNDNIS 90/DIE GRÜNEN
+11003870;NA;Brigitte;NA;Zypries;Bundesministerin BMWi;NA
+11004732;NA;Timon;NA;Gremmels;NA;SPD
+11004824;NA;Falko;NA;Mohrs;NA;SPD
+11004819;NA;Pascal;NA;Meiser;NA;DIE LINKE
+11002733;Dr.;Michael;NA;Meister;Parl. Staatssekretär BMF;NA
+11003547;NA;Anja;NA;Hajduk;NA;BÜNDNIS 90/DIE GRÜNEN
+11004333;NA;Christian;NA;Kühn;NA;BÜNDNIS 90/DIE GRÜNEN
+11003628;Dr.;Ole;NA;Schröder;Parl. Staatssekretär BMI;NA
+11004757;Dr.;Christoph;NA;Hoffmann;NA;FDP
+11003033;NA;Norbert;NA;Barthle;NA;CDU/CSU
+11004850;NA;Tobias Matthias;NA;Peterka;NA;AfD
+11004902;NA;Bettina;NA;Stark-Watzinger;NA;FDP
+11003646;NA;Antje;NA;Tillmann;NA;CDU/CSU
+11003422;NA;Ingrid;NA;Arndt-Brauer;NA;SPD
+11004289;NA;Metin;NA;Hakverdi;NA;SPD
+11004832;NA;Sepp;NA;Müller;NA;CDU/CSU
+11004912;Dr.;Hermann-Josef;NA;Tebroke;NA;CDU/CSU
+11001235;NA;Wolfgang;NA;Kubicki;NA;FDP
+11004936;Dr.;Christian;NA;Wirth;NA;AfD
+11003848;Dr.;Petra;NA;Sitte;NA;DIE LINKE
+11004245;NA;Annalena;NA;Baerbock;NA;BÜNDNIS 90/DIE GRÜNEN
+11004368;NA;Mahmut;NA;Özdemir;NA;SPD
+11004913;NA;Linda;NA;Teuteberg;NA;FDP
+11003714;NA;Monika;NA;Lazar;NA;BÜNDNIS 90/DIE GRÜNEN
+11004372;NA;Martin;NA;Patzelt;NA;CDU/CSU
+11004874;Dr.;Wieland;NA;Schinnenburg;NA;FDP
+11004401;NA;Dagmar;NA;Schmidt;NA;SPD
+11004937;NA;Uwe;NA;Witt;NA;AfD
+11004697;NA;Carl-Julius;NA;Cronenberg;NA;FDP
+11004822;NA;Mario;NA;Mieruch;NA;fraktionslos
+11003556;NA;Gabriele;NA;Hiller-Ohm;NA;SPD
+11004795;NA;Michael;NA;Kuffer;NA;CDU/CSU
+11003786;NA;Katja;NA;Kipping;NA;DIE LINKE
+11002655;NA;Dagmar;NA;Freitag;NA;SPD
+11004692;NA;Petr;NA;Bystron;NA;AfD
+11004709;NA;Thomas;NA;Erndl;NA;CDU/CSU
+11004163;Dr.;Frank;NA;Steffel;NA;CDU/CSU
+11004853;NA;Stephan;NA;Pilsinger;NA;CDU/CSU
+11004055;NA;Rudolf;NA;Henke;NA;CDU/CSU
+11004876;Dr.;Nils;NA;Schmid;NA;SPD
+11004694;Dr.;Anna;NA;Christmann;NA;BÜNDNIS 90/DIE GRÜNEN
+11004073;NA;Axel;NA;Knoerig;NA;CDU/CSU
+11004312;NA;Dieter;NA;Janecek;NA;BÜNDNIS 90/DIE GRÜNEN
+11004772;NA;Uwe;NA;Kamann;NA;AfD
+11004790;NA;Elvan;NA;Korkmaz;NA;SPD
+11004012;NA;Matthias W.;NA;Birkwald;NA;DIE LINKE
+11004261;NA;Sabine;NA;Dittmar;NA;SPD
+11004873;NA;Ulrike;NA;Schielke-Ziesing;NA;AfD
+11004321;NA;Ralf;NA;Kapschack;NA;SPD
+11004334;Dr.;Roy;NA;Kühne;NA;CDU/CSU
+11004006;NA;Bärbel;NA;Bas;NA;SPD
+11004258;NA;Bernhard;NA;Daldrup;NA;SPD
+11003450;NA;Ulrich;NA;Kelber;NA;SPD
+11004101;NA;Kirsten;NA;Lühmann;NA;SPD
+11004354;NA;Klaus;NA;Mindrup;NA;SPD
+11004124;NA;Aydan;NA;Özoğuz;NA;SPD
+11004387;NA;Andreas;NA;Rimkus;NA;SPD
+11004397;NA;Udo;NA;Schiefner;NA;SPD
+11003630;NA;Swen;NA;Schulz;NA;SPD
+11004435;NA;Kees;NA;de Vries;NA;CDU/CSU
+11004674;NA;Andreas;NA;Bleck;NA;AfD
+11004816;Dr.;Jürgen;NA;Martens;NA;FDP
+11004406;Dr.;Klaus-Peter;NA;Schulze;NA;CDU/CSU
+11002720;NA;Steffi;NA;Lemke;NA;BÜNDNIS 90/DIE GRÜNEN
+11004283;NA;Oliver;NA;Grundmann;NA;CDU/CSU
+11004681;NA;Silvia;NA;Breher;NA;CDU/CSU
+11004880;NA;Jörg;NA;Schneider;NA;AfD
+11002812;NA;Max;NA;Straubinger;NA;CDU/CSU
+11004071;NA;Volkmar;NA;Klein;NA;CDU/CSU
+11004768;Dr.;Marc;NA;Jongen;NA;AfD
+11004717;NA;Brigitte;NA;Freihold;NA;DIE LINKE
+11004414;Dr.;Wolfgang;NA;Stefinger;NA;CDU/CSU
+11002003;NA;Christian;NA;Schmidt;Bundesminister BMVI;NA
+11004898;NA;Detlev;NA;Spangenberg;NA;AfD
+11004159;NA;Judith;NA;Skudelny;NA;FDP
+11004134;NA;Ingrid;NA;Remmers;NA;DIE LINKE
+11004011;NA;Steffen;NA;Bilger;NA;CDU/CSU
+11004262;NA;Michael;NA;Donth;NA;CDU/CSU
+11004366;NA;Florian;NA;Oßner;NA;CDU/CSU
+11004445;NA;Oliver;NA;Wittke;NA;CDU/CSU
+11004730;NA;Wilhelm;NA;von Gottberg;NA;AfD
+11004661;NA;Nicole;NA;Bauer;NA;FDP
+11003706;NA;Artur;NA;Auernhammer;NA;CDU/CSU
+11004650;Dr.;Michael;NA;von Abercron;NA;CDU/CSU
+11003636;NA;Thomas;NA;Silberhorn;Parl. Staatssekretär  BMZ;NA
+11004784;NA;Daniela;NA;Kluckert;NA;FDP
+11004749;NA;Martin;NA;Hess;NA;AfD
+11004667;NA;Olaf in der;NA;Beek;NA;FDP
+11002630;Dr.;Maria;NA;Böhmer;Staatsministerin AA;NA
+11004665;NA;Canan;NA;Bayram;NA;BÜNDNIS 90/DIE GRÜNEN
+11004683;NA;Leni;NA;Breymaier;NA;SPD
+11004656;NA;Philipp;NA;Amthor;NA;CDU/CSU
+11001478;Dr.;Angela;NA;Merkel;Bundeskanzlerin;NA
+11004738;Dr.;Roland;NA;Hartwig;NA;AfD
+11004701;NA;Esther;NA;Dilcher;NA;SPD
+11004742;NA;Katrin;NA;Helling-Plahr;NA;FDP
+11004744;NA;Marc;NA;Henrichmann;NA;CDU/CSU
+11004046;NA;Astrid;NA;Grotelüschen;NA;CDU/CSU
+11004775;NA;Thomas L.;NA;Kemmerich;NA;FDP
+11004664;Dr.;Danyal;NA;Bayaz;NA;BÜNDNIS 90/DIE GRÜNEN
+11004899;Dr.;Dirk;NA;Spaniel;NA;AfD
+11003789;NA;Jens;NA;Koeppen;NA;CDU/CSU
+11004119;NA;Ingrid;NA;Nestle;NA;BÜNDNIS 90/DIE GRÜNEN
+11004715;NA;Susanne;NA;Ferschl;NA;DIE LINKE
+11004836;NA;Sebastian;NA;Münzenmaier;NA;AfD
+11004666;NA;Jens;NA;Beeck;NA;FDP
+11004673;NA;Marc;NA;Biadacz;NA;CDU/CSU
+999190001;NA;Carsten;NA;Träger;NA;SPD
+11004102;NA;Oliver;NA;Luksic;NA;FDP
+11004933;NA;Wolfgang;NA;Wiehle;NA;AfD
+11004089;NA;Sabine;NA;Leidig;NA;DIE LINKE
+11004726;NA;Stefan;NA;Gelbhaar;NA;BÜNDNIS 90/DIE GRÜNEN
+11004810;NA;Frank;NA;Magnitz;NA;AfD
+11004356;NA;Karsten;NA;Möring;NA;CDU/CSU
+11003613;NA;Daniela;NA;Ludwig;NA;CDU/CSU
+11004917;NA;Alexander;NA;Throm;NA;CDU/CSU
+11004381;NA;Martin;NA;Rabanus;NA;SPD
+11004793;NA;Alexander;NA;Krauß;NA;CDU/CSU
+11004295;NA;Dirk;NA;Heidenblut;NA;SPD
+11004909;NA;Margit;NA;Stumpp;NA;BÜNDNIS 90/DIE GRÜNEN
+11004146;NA;Patrick;NA;Schnieder;NA;CDU/CSU
+11004891;NA;Thomas;NA;Seitz;NA;AfD
+11004783;NA;Katharina;NA;Kloke;NA;FDP
+11004835;NA;Volker;NA;Münz;NA;AfD
+11004736;NA;Mariana Iris;NA;Harder-Kühnel;NA;AfD
+11004774;NA;Torbjörn;NA;Kartes;NA;CDU/CSU
+11003804;NA;Katja;NA;Mast;NA;SPD
+11004779;NA;Michael;NA;Kießling;NA;CDU/CSU
+11004831;NA;Hansjörg;NA;Müller;NA;AfD
+11004622;NA;Sarah;NA;Ryglewski;NA;SPD
+11004833;NA;Roman;NA;Müller-Böhm;NA;FDP
+11004704;NA;Siegbert;NA;Droese;NA;AfD
+11004828;NA;Alexander;NA;Müller;NA;FDP
+11004805;NA;Nikolas;NA;Löbel;NA;CDU/CSU
+11004654;NA;Renata;NA;Alt;NA;FDP
+11004331;NA;Markus;NA;Koob;NA;CDU/CSU
+11004862;NA;Martin Erwin;NA;Renner;NA;AfD
+11004671;NA;Christoph;NA;Bernstiel;NA;CDU/CSU
+11004155;Dr.;Patrick;NA;Sensburg;NA;CDU/CSU
+11004091;NA;Ralph;NA;Lenkert;NA;DIE LINKE
+11004766;NA;Hans-Jürgen;NA;Irmer;NA;CDU/CSU
+11004716;NA;Daniel;NA;Föst;NA;FDP
+11004756;Dr.;Bettina;NA;Hoffmann;NA;BÜNDNIS 90/DIE GRÜNEN
+10000;NA;Olaf in der;NA;Beek;NA;FDP
+11003213;NA;Michael;NA;Roth;Staatsminister AA;NA
+11003264;NA;Klaus-Peter;NA;Willsch;NA;CDU/CSU
+11004379;NA;Florian;NA;Post;NA;SPD
+11004806;NA;Bernhard;NA;Loos;NA;CDU/CSU
+11004651;NA;Doris;NA;Achelwilm;NA;DIE LINKE
+11004346;NA;Yvonne;NA;Magwas;NA;CDU/CSU
+11003830;NA;Sönke;NA;Rix;NA;SPD
+11004745;NA;Markus;NA;Herbrand;NA;FDP
+11003544;NA;Olav;NA;Gutting;NA;CDU/CSU
+11004617;NA;Ronja;NA;Kemmer;NA;CDU/CSU
+11004184;NA;Daniela;NA;Wagner;NA;BÜNDNIS 90/DIE GRÜNEN
+11004045;NA;Michael;NA;Groß;NA;SPD
+11004769;Dr.;Christian;NA;Jung;NA;FDP
+11004927;NA;Andreas;NA;Wagner;NA;DIE LINKE
+11004904;NA;Mathias;NA;Stein;NA;SPD
+11004691;NA;Matthias;NA;Büttner;NA;AfD
+11004645;NA;Markus;NA;Uhl;NA;CDU/CSU
+11003148;NA;Gustav;NA;Herzog;NA;SPD
+11004087;NA;Ulrich;NA;Lange;NA;CDU/CSU
+11004409;NA;Tino;NA;Sorge;NA;CDU/CSU
+11004885;Dr.;Manja;NA;Schüle;NA;SPD
+11004676;Dr.;Jens;NA;Brandenburg;NA;FDP
+11004041;NA;Nicole;NA;Gohlke;NA;DIE LINKE
+11004901;NA;Katrin;NA;Staffler;NA;CDU/CSU
+11004733;NA;Erhard;NA;Grundl;NA;BÜNDNIS 90/DIE GRÜNEN
+11004829;NA;Axel;NA;Müller;NA;CDU/CSU
+11004923;NA;Gerald;NA;Ullrich;NA;FDP
+11004867;NA;Stefan;NA;Rouenhoff;NA;CDU/CSU
+11004924;NA;Kerstin;NA;Vieregge;NA;CDU/CSU
+11003758;NA;Martin;NA;Gerster;NA;SPD
+11004221;NA;Beate;NA;Walter-Rosenheimer;NA;BÜNDNIS 90/DIE GRÜNEN
+11004934;NA;Bettina Margarethe;NA;Wiesmann;NA;CDU/CSU
+11004246;NA;Ulrike;NA;Bahr;NA;SPD
+11004443;NA;Kai;NA;Whittaker;NA;CDU/CSU
+11004173;NA;Kerstin;NA;Tack;NA;SPD
+11004004;NA;Peter;NA;Aumer;NA;CDU/CSU
+11004741;NA;Thomas;NA;Heilmann;NA;CDU/CSU
+11003815;NA;Carsten;NA;Müller;NA;CDU/CSU
+999990073;NA;Olaf;NA;Scholz;Bundesminister der Finanzen;NA
+999990075;NA;Horst;NA;Seehofer;Bundesminister des Innern, für Bau und Heimat;NA
+11004809;NA;Heiko;NA;Maas;Bundesminister des Auswärtigen;NA
+11003142;NA;Hubertus;NA;Heil;Bundesminister für Arbeit und Soziales;NA
+999990072;NA;Julia;NA;Klöckner;Bundesministerin für Ernährung und Landwirtschaft;NA
+999990071;Dr.;Franziska;NA;Giffey;Bundesministerin für Familie, Senioren, Frauen und Jugend;NA
+11003625;NA;Andreas;NA;Scheuer;Bundesminister für Verkehr und digitale Infrastruktur;NA
+999990074;NA;Svenja;NA;Schulze;Bundesministerin für Umwelt, Naturschutz und nukleare Sicherheit;NA
+11004323;NA;Anja;NA;Karliczek;Bundesministerin für Bildung und Forschung;NA
+11002742;Dr.;Gerd;NA;Müller;Bundesminister für wirtschaftliche Zusammenarbeit und Entwicklung;NA
+11003510;Dr.;Helge;NA;Braun;Bundesminister für besondere Aufgaben;NA
+11004884;NA;Michael;NA;Schrodi;NA;SPD
+11003800;NA;Michael;NA;Leutert;NA;DIE LINKE
+11004712;Dr.;Marcus;NA;Faber;NA;FDP
+11003645;NA;Michaela;NA;Noll;NA;CDU/CSU
+11004341;NA;Antje;NA;Lezius;NA;CDU/CSU
+11003631;NA;Uwe;NA;Schummer;NA;CDU/CSU
+11004699;NA;Astrid;NA;Damerow;NA;CDU/CSU
+11004424;NA;Michael;NA;Thews;NA;SPD
+11004935;Dr.;Heiko;NA;Wildberg;NA;AfD
+11004386;Dr.;Daniela;NA;De Ridder;NA;SPD
+11004797;NA;Alexander;NA;Kulitz;NA;FDP
+11004799;NA;Ulrich;NA;Lechte;NA;FDP
+11004052;NA;Mechthild;NA;Heil;NA;CDU/CSU
+11003888;Dr.;Wolfgang;NA;Strengmann-Kuhn;NA;BÜNDNIS 90/DIE GRÜNEN
+11002019;NA;Ulla;NA;Schmidt;NA;SPD
+11004054;NA;Frank;NA;Heinrich;NA;CDU/CSU
+11004770;NA;Ingmar;NA;Jung;NA;CDU/CSU
+11004174;Dr.;Peter;NA;Tauber;Parl. Staatssekretär  BMVg;NA
+11004871;NA;Christian;NA;Sauter;NA;FDP
+11004938;NA;Paul;NA;Ziemiak;NA;CDU/CSU
+11004845;NA;Josef;NA;Oster;NA;CDU/CSU
+11004713;NA;Yasmin;NA;Fahimi;NA;SPD
+11003584;Dr.;Gesine;NA;Lötzsch;NA;DIE LINKE
+11004682;NA;Sebastian;NA;Brehm;NA;CDU/CSU
+11004670;NA;Melanie;NA;Bernstein;NA;CDU/CSU
+11004417;NA;Sebastian;NA;Steineke;NA;CDU/CSU
+11004812;Dr.;Lothar;NA;Maier;NA;AfD
+11003501;NA;Veronika;NA;Bellmann;NA;CDU/CSU
+11000616;NA;Hans-Joachim;NA;Fuchtel;Parl. Staatssekretär BMEL;NA
+11003574;Dr.;Günter;NA;Krings;Parl. Staatssekretär  BMI;NA
+11004278;NA;Matthias;NA;Gastel;NA;BÜNDNIS 90/DIE GRÜNEN
+11003761;NA;Monika;NA;Grütters;Staatsministerin BK;NA
+11003586;NA;Dorothee;NA;Bär;Staatsministerin BK;NA
+11003742;NA;Michael;NA;Brand;NA;CDU/CSU
+11004719;NA;Dietmar;NA;Friedhoff;NA;AfD
+11004897;NA;Helin Evrim;NA;Sommer;NA;DIE LINKE
+11003614;Dr.;Sascha;NA;Raabe;NA;SPD
+11004285;NA;Fritz;NA;Güntzler;NA;CDU/CSU
+11004377;NA;Sabine;NA;Poschmann;NA;SPD
+11004317;NA;Frank;NA;Junge;NA;SPD
+11002666;NA;Hermann;NA;Gröhe;NA;CDU/CSU
+11004390;NA;Corinna;NA;Rüffer;NA;BÜNDNIS 90/DIE GRÜNEN
+11003496;NA;Sören;NA;Bartol;NA;SPD
+11004241;NA;Stephan;NA;Albani;NA;CDU/CSU
+11004942;NA;Marja-Liisa;NA;Völlers;NA;SPD
+11004869;Dr. h. c.;Thomas;NA;Sattelberger;NA;FDP
+11004848;NA;Sören;NA;Pellmann;NA;DIE LINKE
+11004918;Dr.;Dietlind;NA;Tiemann;NA;CDU/CSU
+11003210;NA;René;NA;Röspel;NA;SPD
+11004679;NA;Michel;NA;Brandt;NA;DIE LINKE
+11004452;NA;Emmi;NA;Zeulner;NA;CDU/CSU
+11004663;NA;Margarete;NA;Bause;NA;BÜNDNIS 90/DIE GRÜNEN
+11004762;NA;Ottmar;NA;von Holtz;NA;BÜNDNIS 90/DIE GRÜNEN
+11003834;NA;Frank;NA;Schäffler;NA;FDP
+11004413;NA;Martina;NA;Stamm-Fibich;NA;SPD
+11003597;NA;Stefan;NA;Müller;NA;CDU/CSU
+11003070;NA;Marie-Luise;NA;Dött;NA;CDU/CSU
+11004415;NA;Albert;NA;Stegemann;NA;CDU/CSU
+11003602;Dr.;Georg;NA;Nüßlein;NA;CDU/CSU
+11003792;NA;Sylvia;NA;Kotting-Uhl;NA;BÜNDNIS 90/DIE GRÜNEN
+11004104;NA;Karin;NA;Maag;NA;CDU/CSU
+11003620;NA;Albert;NA;Rupprecht;NA;CDU/CSU
+11003167;NA;Christine;NA;Lambrecht;Parl. Staatssekretärin BMF;NA
+11004877;NA;Stefan;NA;Schmidt;NA;BÜNDNIS 90/DIE GRÜNEN
+11000756;Dr.;Gregor;NA;Gysi;NA;DIE LINKE
+11004834;NA;Frank;NA;Müller-Rosentritt;NA;FDP
+11004739;NA;Jochen;NA;Haug;NA;AfD
+11004926;NA;Christoph;NA;de Vries;NA;CDU/CSU
+11004711;Dr.;Michael;NA;Espendiller;NA;AfD
+11003860;NA;Kai;NA;Wegner;NA;CDU/CSU
+11004743;NA;Udo Theodor;NA;Hemmelgarn;NA;AfD
+11004222;NA;Manfred;NA;Todtenhausen;NA;FDP
+11004229;NA;Hagen;NA;Reinhold;NA;FDP
+11004423;NA;Claudia;NA;Tausend;NA;SPD
+11004889;NA;Torsten;NA;Schweiger;NA;CDU/CSU
+11002823;NA;Ute;NA;Vogt;NA;SPD
+999990006;Dr.;Hans-Peter;NA;Bartels;Wehrbeauftragter des Deutschen Bundestages;NA
+11004800;NA;Jens;NA;Lehmann;NA;CDU/CSU
+11004677;NA;Mario;NA;Brandenburg;NA;FDP
+11004051;Dr.;Matthias;NA;Heider;NA;CDU/CSU
+11004883;NA;Felix;NA;Schreiner;NA;CDU/CSU
+11004059;NA;Karl;NA;Holmeier;NA;CDU/CSU
+11004653;NA;Gökay;NA;Akbulut;NA;DIE LINKE
+11004941;NA;Gyde;NA;Jensen;NA;FDP
+11004734;NA;Thomas;NA;Hacker;NA;FDP
+11004750;NA;Katja;NA;Hessel;NA;FDP
+11004693;NA;Jörg;NA;Cezanne;NA;DIE LINKE
+11003809;Dr.;Matthias;NA;Miersch;NA;SPD
+11004878;NA;Uwe;NA;Schmidt;NA;SPD
+11004760;Dr.;Bruno;NA;Hollnagel;NA;AfD
+11004820;NA;Christoph;NA;Meyer;NA;FDP
+11004286;NA;Christian;NA;Haase;NA;CDU/CSU
+11003168;NA;Christian;NA;Lange;Parl. Staatssekretär  BMJV;NA
+11003655;NA;Marco;NA;Wanderwitz;Parl. Staatssekretär  BMI;NA
+11004684;Dr.;Carsten;NA;Brodesser;NA;CDU/CSU
+999990050;NA;Verena;NA;Bentele;Beauftragte der Bundesregierung für die Belange von Menschen mit Behinderungen;NA
+11004814;Dr.;Astrid;NA;Mannes;NA;CDU/CSU
+11004776;Dr.;Achim;NA;Kessler;NA;DIE LINKE
+11004841;NA;Petra;NA;Nicolaisen;NA;CDU/CSU
+11004449;NA;Hubertus;NA;Zdebel;NA;DIE LINKE
+11004815;NA;Till;NA;Mansmann;NA;FDP
+11004737;NA;Verena;NA;Hartmann;NA;AfD
+11003542;NA;Markus;NA;Grübel;NA;CDU/CSU
+11003744;NA;Martin;NA;Burkert;NA;SPD
+11004407;NA;Andreas;NA;Schwarz;NA;SPD
+11004687;NA;Marcus;NA;Bühl;NA;AfD
+11004849;NA;Victor;NA;Perli;NA;DIE LINKE
+11004153;NA;Reinhold;NA;Sendker;NA;CDU/CSU
+11004083;NA;Rüdiger;NA;Kruse;NA;CDU/CSU
+11003152;NA;Martin;NA;Hohmann;NA;AfD
+11004765;NA;Ulla;NA;Ihnen;NA;FDP
+11003740;NA;Heidrun;NA;Bluhm;NA;DIE LINKE
+11004686;NA;Katrin;NA;Budde;NA;SPD
+11003582;NA;Patricia;NA;Lips;NA;CDU/CSU
+11003068;NA;Ekin;NA;Deligöz;NA;BÜNDNIS 90/DIE GRÜNEN
+11003624;NA;Axel;NA;Schäfer;NA;SPD
+11004780;NA;Karsten;NA;Klein;NA;FDP
+11004388;NA;Dennis;NA;Rohde;NA;SPD
+11004882;NA;Eva-Maria Elisabeth;NA;Schreiber;NA;DIE LINKE
+11004870;NA;Stefan;NA;Sauer;NA;CDU/CSU
+11004332;NA;Carsten;NA;Körber;NA;CDU/CSU
+11004281;NA;Klaus-Dieter;NA;Gröhler;NA;CDU/CSU
+11004108;NA;Andreas;NA;Mattfeldt;NA;CDU/CSU
+11004412;NA;Svenja;NA;Stadler;NA;SPD
+11004382;NA;Kerstin;NA;Radomski;NA;CDU/CSU
+11003118;NA;Axel E.;NA;Fischer;NA;CDU/CSU
+11003551;NA;Michael;NA;Hennrich;NA;CDU/CSU
+11004113;NA;Dietrich;NA;Monstadt;NA;CDU/CSU
+11004136;NA;Josef;NA;Rief;NA;CDU/CSU
+11004252;Dr.;André;NA;Berghegger;NA;CDU/CSU
+11004418;NA;Johannes;NA;Steiniger;NA;CDU/CSU
+11004911;NA;Jessica;NA;Tatti;NA;DIE LINKE
+11004324;NA;Kerstin;NA;Kassner;NA;DIE LINKE
+11003799;NA;Paul;NA;Lehrieder;NA;CDU/CSU
+11003643;NA;Gero;NA;Storjohann;NA;CDU/CSU
+11004337;Dr.;Katja;NA;Leikert;NA;CDU/CSU
+11004655;NA;Norbert Maria;NA;Altenkamp;NA;CDU/CSU
+11004292;NA;Matthias;NA;Hauer;NA;CDU/CSU
+11002798;NA;Johannes;NA;Selle;NA;CDU/CSU
+11004915;NA;Hans-Jürgen;NA;Thies;NA;CDU/CSU
+11004120;Dr.;Martin;NA;Neumann;NA;FDP
+11004854;Dr.;Christoph;NA;Ploß;NA;CDU/CSU
+11004038;Dr.;Thomas;NA;Gebhart;Parl. Staatssekretär BMG;NA
+11003587;NA;Caren;NA;Marks;Parl. Staatssekretärin  BMFSFJ;NA
+11004700;NA;Britta Katharina;NA;Dassler;NA;FDP
+11003534;NA;Eberhard;NA;Gienger;NA;CDU/CSU
+11004788;NA;Jörn;NA;König;NA;AfD
+11004729;NA;Eckhard;NA;Gnodtke;NA;CDU/CSU
+11004903;NA;Andreas;NA;Steier;NA;CDU/CSU
+999990076;NA;Andreas;NA;Geisel;Senator (Berlin);NA
+11004827;NA;Andreas;NA;Mrosek;NA;AfD
+11003612;NA;Florian;NA;Pronold;Parl. Staatssekretär BMU;NA
+11003248;NA;Arnold;NA;Vaatz;NA;CDU/CSU
+11000198;NA;Peter;NA;Bleser;NA;CDU/CSU
+11004298;NA;Mark;NA;Helfrich;NA;CDU/CSU
+11004168;NA;Dieter;NA;Stier;NA;CDU/CSU
+11004251;NA;Sybille;NA;Benning;NA;CDU/CSU
+11004782;Dr.;Marcel;NA;Klinge;NA;FDP
+11004293;NA;Mark;NA;Hauptmann;NA;CDU/CSU
+11004893;NA;Björn;NA;Simon;NA;CDU/CSU
+11003816;NA;Detlef;NA;Müller;NA;SPD
+11004131;NA;Eckhard;NA;Pols;NA;CDU/CSU
+11004325;NA;Gabriele;NA;Katzmarek;NA;SPD
+11004922;Dr.;Andrew;NA;Ullmann;NA;FDP
+11004327;Dr.;Georg;NA;Kippels;NA;CDU/CSU
+11002621;NA;Doris;NA;Barnett;NA;SPD
+11004191;NA;Dagmar;NA;Ziegler;NA;SPD
+11001772;Dr.;Peter;NA;Ramsauer;NA;CDU/CSU
+11004416;NA;Peter;NA;Stein;NA;CDU/CSU
+11003658;NA;Ingo;NA;Wellenreuther;NA;CDU/CSU
+11004275;NA;Ulrich;NA;Freese;NA;SPD
+11004178;NA;Markus;NA;Tressel;NA;BÜNDNIS 90/DIE GRÜNEN
+11004376;NA;Detlev;NA;Pilger;NA;SPD
+11004879;Dr.;Claudia;NA;Schmidtke;NA;CDU/CSU
+11003890;NA;Christian;NA;Hirte;Parl. Staatssekretär BMWi;NA
+999990077;NA;Martin;NA;Dulig;Staatsminister (Sachsen);NA
+11004767;NA;Fabian;NA;Jacobi;NA;AfD
+11003525;NA;Enak;NA;Ferlemann;Parl. Staatssekretär  BMVI;NA
+11003162;NA;Anette;NA;Kramme;Parl. Staatssekretärin BMAS;NA
+11002754;NA;Thomas;NA;Rachel;Parl. Staatssekretär  BMBF;NA
+11004747;NA;Waldemar;NA;Herdt;NA;AfD
+11004352;NA;Jan;NA;Metzler;NA;CDU/CSU
+11003650;NA;Volkmar;NA;Vogel;NA;CDU/CSU
+11004008;NA;Manfred;NA;Behrens;NA;CDU/CSU
+11004444;NA;Dirk;NA;Wiese;NA;SPD
+999990078;Dr.;Joachim;NA;Stamp;Minister (Nordrhein-Westfalen);NA
+11004170;NA;Karin;NA;Strenz;NA;CDU/CSU
+11004706;NA;Hartmut;NA;Ebbing;NA;FDP
+11004428;NA;Oswin;NA;Veith;NA;CDU/CSU
+11004855;NA;Paul Viktor;NA;Podolay;NA;AfD
+11004019;NA;Heike;NA;Brehmer;NA;CDU/CSU
+11003259;NA;Annette;NA;Widmann-Mauz;Staatsministerin  BK;NA
+11004148;NA;Jimmy;NA;Schulz;NA;FDP
+11004358;NA;Bettina;NA;Müller;NA;SPD
+11004708;NA;Berengar Elsner von;NA;Gronow;NA;AfD
+11004847;NA;Frank;NA;Pasemann;NA;AfD
+11001278;NA;Katharina;NA;Landgraf;NA;CDU/CSU
+999980200;NA;Gisela;NA;Manderla;NA;CDU/CSU
+11003838;NA;Marianne;NA;Schieder;NA;SPD
+11004821;NA;Corinna;NA;Miazga;NA;AfD
+11004122;NA;Thomas;NA;Nord;NA;DIE LINKE
+11004187;NA;Sabine;NA;Weiss;Parl. Staatssekretärin BMG;NA
+11002667;NA;Manfred;NA;Grund;NA;CDU/CSU
+999990079;Dr.;Volker;NA;Wissing;Staatsminister  (Rheinland-Pfalz);NA
+11004348;NA;Gisela;NA;Manderla;NA;CDU/CSU
+11004723;NA;Sylvia;NA;Gabelmann;NA;DIE LINKE
+11003715;NA;Lars;NA;Klingbeil;NA;SPD
+999990080;NA;Jürgen;NA;Dusel;Beauftragter der Bundesregierung für die Belange von Menschen mit Behinderungen;NA
+11004426;NA;Carsten;NA;Träger;NA;SPD
+11004947;NA;Nezahat;NA;Baradari;NA;SPD
+999980202;NA;Nina;NA;Warken;NA;CDU/CSU
+999990081;NA;Bodo;NA;Ramelow;Ministerpräsident  (Thüringen);NA
+11003197;NA;Kersten;NA;Steinke;NA;DIE LINKE
+11003512;NA;Marco;NA;Bülow;NA;fraktionslos
+11003199;NA;Dietmar;NA;Nietan;NA;SPD
+11004017;NA;Norbert;NA;Brackmann;NA;CDU/CSU
+999990082;Dr.;Dietmar;NA;Woidke;Ministerpräsident  (Brandenburg);NA
+11004946;NA;Gerhard;NA;Zickenheiner;NA;BÜNDNIS 90/DIE GRÜNEN
+999990083;NA;Annegret;NA;Kramp-Karrenbauer;Bundesministerin BMVg;NA
+11003231;NA;Olaf;NA;Scholz;Bundesminister BMF;NA
+11003566;NA;Julia;NA;Klöckner;Bundesministerin BMEL;NA
+11004949;NA;Isabel;NA;Mackensen;NA;SPD
+11002140;NA;Horst;NA;Seehofer;Bundesminister BMI;NA
+11004369;NA;Ingrid;NA;Pahlmann;NA;CDU/CSU
+11004277;Dr.;Astrid;NA;Freudenstein;NA;CDU/CSU
+11003572;NA;Michael;NA;Kretschmer;Ministerpräsident (Sachsen);NA
+11004948;NA;Peter;NA;Heidt;NA;FDP
+11000254;Dr.;Eberhard;NA;Brecht;NA;SPD
+11004839;NA;Christoph;NA;Neumann;NA;AfD
+11003031;Dr.;Hans-Peter;NA;Bartels;Wehrbeauftragter des Deutschen Bundestages;NA
+11004371;NA;Markus;NA;Paschke;NA;SPD
+999990090;NA;Elke;NA;Breitenbach;Senatorin (Berlin);NA
+999990091;Dr.;Benjamin-Immanuel;NA;Hoff;Minister (Thüringen);NA
+999990089;NA;Sandra;NA;Bubendorfer-Licht;NA;FDP
+11004437;NA;Nina;NA;Warken;NA;CDU/CSU
+999990093;NA;Boris;NA;Pistorius;Minister (Niedersachsen);NA
+999990085;Dr.;Joe;NA;Weingarten;NA;SPD
+999990094;Dr.;Reiner;NA;Haseloff;Ministerpräsident (Sachsen-Anhalt);NA
+999990088;NA;Sylvia;NA;Lehmann;NA;SPD
+999990095;NA;Georg;NA;Eisenreich;Staatsminister (Bayern);NA
+11003023;NA;Annegret;NA;Kramp-Karrenbauer;Bundesministerin BMVg;NA
+999990092;NA;Bela;NA;Bach;NA;SPD
+999990096;NA;Matthias;NA;Nölke;NA;FDP
