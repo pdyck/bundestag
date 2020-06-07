@@ -1,0 +1,3472 @@
+token;sentiment
+abmachung; 0,0040
+abschluß; 0,0040
+abstimmung; 0,0040
+agilität; 0,0040
+aktivität; 0,0040
+aktualisierung; 0,0040
+aktualität; 0,0040
+akzeptanz; 0,0040
+andrang; 0,0040
+anerkennung; 0,0855
+angebot; 0,0711
+angemessenheit; 0,0040
+anhebung; 0,0040
+anheiterung; 0,0040
+ankurbelung; 0,0040
+annehmlichkeit; 0,0040
+annäherung; 0,0040
+anpassung; 0,0040
+anpassungsfähigkeit; 0,0040
+anreicherung; 0,0040
+anspruch; 0,0040
+anstand; 0,0040
+anstieg; 0,0040
+anständigkeit; 0,0040
+anteil; 0,0040
+anziehung; 0,0040
+applaus; 0,0871
+attraktivität; 0,0040
+aufbereitung; 0,0040
+aufbesserung; 0,0040
+auferstehung; 0,0040
+aufmerksamkeit; 0,0040
+aufmunterung; 0,0040
+aufrichtigkeit; 0,0040
+aufschwung; 0,0040
+aufstieg; 0,0040
+aufstockung; 0,0040
+auftrag; 0,0040
+auftrieb; 0,0040
+aufwertung; 0,0040
+aufwärtstrend; 0,0040
+augenweide; 0,0844
+ausbau; 0,0040
+ausbildung; 0,0040
+ausdauer; 0,0886
+ausgleich; 0,0040
+ausgleichszahlung; 0,0040
+auszeichnung; 0,0040
+authentizität; 0,0040
+autonomie; 0,0040
+bedeutung; 0,0040
+befreiung; 0,0040
+befriedigung; 0,0040
+beförderung; 0,0040
+begeisterung; 0,3200
+begnadigung; 0,0040
+begünstigung; 0,0040
+beifall; 0,3265
+beifallsruf; 0,0040
+beilegung; 0,0040
+beisteuerung; 0,0040
+beitritt; 0,0040
+bekräftigung; 0,0040
+belastbarkeit; 0,0040
+belebtheit; 0,0040
+beliebtheit; 0,0040
+belohnung; 0,0813
+benefiz; 0,0040
+bereicherung; 0,0040
+bereitschaft; 0,0040
+bereitstellung; 0,0040
+beruhigung; 0,0040
+bescheidenheit; 0,0852
+beschleunigung; 0,0040
+beschwichtigung; 0,0040
+besitz; 0,0040
+besserung; 0,0040
+bestätigung; 0,0040
+beteiligung; 0,0040
+bewunderer; 0,0040
+bewunderung; 0,0040
+bildung; 0,0040
+blüte; 0,0040
+bonität; 0,0040
+bonus; 0,0040
+boom; 0,0040
+brillanz; 0,0040
+brüderlichkeit; 0,0040
+bund; 0,0040
+bündnis; 0,0040
+champion; 0,0040
+charisma; 0,0040
+charme; 0,0040
+cleverness; 0,0040
+comeback; 0,0712
+dankbarkeit; 0,0040
+diskretion; 0,0040
+disziplin; 0,0611
+duft; 0,2149
+dynamik; 0,0040
+echtheit; 0,0040
+effizienz; 0,0040
+ehre; 0,0732
+ehrfurcht; 0,0040
+ehrlichkeit; 0,0040
+ehrwürdigkeit; 0,0040
+eifer; 0,0040
+eigenkapital; 0,0040
+eignung; 0,0040
+eindeutigkeit; 0,0040
+einfallsreichtum; 0,0040
+einhaltung; 0,0040
+einheit; 0,0040
+einheitlichkeit; 0,0040
+einkauf; 0,0040
+einnahme; 0,0040
+einsparung; 0,0040
+einweihung; 0,0040
+einzigartigkeit; 0,0040
+eleganz; 0,0040
+empathie; 0,0040
+empfehlung; 0,0040
+engagement; 0,2157
+entlastung; 0,0040
+entlohnung; 0,0040
+entschluß; 0,0804
+entschlüsselung; 0,0040
+entschädigung; 0,0040
+entspannung; 0,0875
+entwirrung; 0,0040
+erbe; 0,0040
+erfahrung; 0,0040
+erfolg; 0,3446
+erfolgserlebnis; 0,0884
+erfüllung; 0,0040
+ergiebigkeit; 0,0040
+ergänzung; 0,0040
+erhaltung; 0,0040
+erholung; 0,0865
+erhöhung; 0,0040
+erlaubnis; 0,0040
+erleichterung; 0,0040
+erleuchtung; 0,0040
+erlösung; 0,0040
+ermutigung; 0,0040
+erneuerung; 0,0040
+ernsthaftigkeit; 0,0040
+ersparnis; 0,0040
+ertrag; 0,0040
+erweiterung; 0,0040
+erzeugnis; 0,0040
+experte; 0,0040
+expertise; 0,0040
+exzellenz; 0,0040
+fairness; 0,0040
+faszination; 0,0040
+favorit; 0,0040
+feier; 0,0829
+fertigkeit; 0,0040
+fest; 0,2346
+festakt; 0,0040
+festigkeit; 0,0040
+festlichkeit; 0,0040
+finanzierung; 0,0040
+fitness; 0,0851
+flair; 0,2216
+fleiß; 0,3113
+flexibilität; 0,0040
+fortschritt; 0,0040
+freiheit; 0,0040
+freispruch; 0,0040
+freude; 0,6502
+freund; 0,0116
+freundlichkeit; 0,0913
+freundschaft; 0,2059
+frieden; 0,0040
+fruchtbarkeit; 0,0040
+funktionsfähigkeit; 0,0040
+furchtlosigkeit; 0,0040
+fähigkeit; 0,0892
+förderung; 0,0829
+führung; 0,0040
+fülle; 0,0040
+gabe; 0,0747
+garantie; 0,0040
+gastfreundlichkeit; 0,0040
+gedenken; 0,0040
+geduld; 0,0789
+gefallen; 0,3349
+gehaltszulage; 0,0040
+gelassenheit; 0,0721
+geldgeber; 0,0040
+gemeinschaft; 0,0040
+genauigkeit; 0,0040
+genehmigung; 0,0040
+genesung; 0,0040
+genialität; 0,0040
+genie; 0,0697
+genuss; 0,0701
+genuß; 0,0730
+gerechtigkeit; 0,0040
+geräumigkeit; 0,0040
+geschenk; 0,4792
+geschick; 0,0040
+geschicklichkeit; 0,0040
+gesundheit; 0,0040
+gesundung; 0,0040
+gewinn; 0,0040
+gewinner; 0,0040
+gewährleistung; 0,0040
+glamour; 0,0040
+glanz; 0,0040
+glaube; 0,0040
+glaubwürdigkeit; 0,0040
+gleichstellung; 0,0040
+glück; 0,2452
+glückseligkeit; 0,0040
+glückwunsch; 0,2193
+gnade; 0,0040
+gratulation; 0,4280
+grenzenlosigkeit; 0,0040
+großzügigigkeit; 0,0040
+größe; 0,0040
+gründlichkeit; 0,0040
+gunst; 0,0040
+gönner; 0,0040
+gönnerschaft; 0,0040
+gültigkeit; 0,0040
+güte; 0,0040
+hammer; 0,0040
+harmonie; 0,0795
+harmonisierung; 0,0040
+hartnäckigkeit; 0,0040
+heiligtum; 0,0040
+heilung; 0,0040
+heirat; 0,0040
+heiterkeit; 0,0040
+helligkeit; 0,0040
+herrlichkeit; 0,0040
+highlight; 0,0040
+hilfe; 0,0040
+hilfsbereitschaft; 0,0040
+hingabe; 0,0040
+hochdruckgebiet; 0,0040
+hochruf; 0,0040
+hochwertigkeit; 0,0040
+hoffnung; 0,2038
+humanität; 0,0040
+humor; 0,3296
+hurra; 0,0040
+hurrageschrei; 0,0040
+höflichkeit; 0,0040
+höhepunkt; 0,0040
+individualität; 0,0040
+innovation; 0,0040
+inspiration; 0,0040
+integrität; 0,0040
+intellekt; 0,0040
+intelligenz; 0,0040
+interesse; 0,0040
+interessenvertretung; 0,0040
+investition; 0,0040
+jubel; 0,0652
+jubiläum; 0,0040
+kauf; 0,0040
+klarheit; 0,0040
+komfort; 0,1808
+kommunikation; 0,0040
+kompatibilität; 0,0040
+kompensation; 0,0040
+kompetenz; 0,0040
+kompliment; 0,3323
+kompromiss; 0,0040
+konjunkturaufschwung; 0,0040
+konsens; 0,0040
+konsistenz; 0,0040
+konsolidierung; 0,0040
+konstanz; 0,0040
+konsultation; 0,0040
+kontinuität; 0,0040
+kooperation; 0,0040
+koordinierung; 0,0040
+korrektheit; 0,0040
+korrektur; 0,0040
+kostbarkeit; 0,0040
+kraft; 0,0040
+kreativität; 0,0768
+kulanz; 0,0040
+kur; 0,0859
+langlebigkeit; 0,0040
+laune; 0,1085
+lebensfähigkeit; 0,0040
+legalität; 0,0040
+legitimität; 0,0040
+leichtigkeit; 0,1725
+leidenschaft; 0,0040
+leistung; 0,0040
+leistungsfähigkeit; 0,0040
+liberalismus; 0,0040
+liebe; 0,0985
+liebling; 0,0873
+linderung; 0,0040
+lob; 0,7246
+lohn; 0,0040
+loyalität; 0,0040
+luxus; 0,0040
+lösung; 0,0040
+macht; 0,0040
+magie; 0,0040
+majestät; 0,0040
+maximum; 0,0040
+meisterschaft; 0,0040
+meisterwerk; 0,0040
+menschenwürde; 0,0040
+menschlichkeit; 0,0040
+milde; 0,0040
+mitgefühl; 0,0040
+mobilität; 0,0040
+modernisierung; 0,0040
+modernität; 0,0040
+moral; 0,0040
+motivation; 0,0040
+mut; 0,6093
+möglichkeit; 0,0040
+nachhaltigkeit; 0,0040
+nutzen; 0,0040
+nähe; 0,0911
+oase; 0,0040
+optimalität; 0,0040
+optimismus; 0,0882
+optimist; 0,0836
+ordnungsmäßigkeit; 0,0040
+originalität; 0,0040
+pannenhilfe; 0,0040
+paradies; 0,0040
+partner; 0,0040
+partnerschaft; 0,0779
+perfektion; 0,0040
+perfektionismus; 0,0040
+perfektionist; 0,0040
+pflege; 0,0040
+phantasie; 0,0750
+plausibilität; 0,0040
+positivität; 0,0040
+potenz; 0,0040
+pracht; 0,0040
+praktikabilität; 0,0040
+premium; 0,0040
+prestige; 0,0040
+privileg; 0,0040
+produktivität; 0,0040
+profit; 0,0040
+progression; 0,0040
+prächtigkeit; 0,0040
+präferenz; 0,0040
+präzision; 0,0040
+pünktlichkeit; 0,0040
+qualifikation; 0,0040
+qualität; 0,0040
+qualitätsverbesserung; 0,0040
+rat; 0,0040
+recht; 0,0040
+rechtmäßigkeit; 0,0040
+rechtsgültigkeit; 0,0040
+rehabilitation; 0,0040
+reichtum; 0,0040
+reinheit; 0,0040
+reinigung; 0,0040
+relevanz; 0,0040
+renovierung; 0,0040
+rentabilität; 0,0040
+reparatur; 0,0040
+respekt; 0,0040
+rettung; 0,0707
+robustheit; 0,0040
+romantik; 0,0688
+ruhe; 0,5017
+ruhm; 0,0040
+rückendeckung; 0,0040
+rückgrat; 0,0040
+rücksicht; 0,0040
+rückversicherung; 0,0040
+sauberkeit; 0,0755
+schatz; 0,1096
+schenkung; 0,0040
+schirmherr; 0,0040
+schirmherrschaft; 0,0040
+schlauheit; 0,0040
+schmuck; 0,0040
+schnelligkeit; 0,0040
+schnäppchen; 0,0040
+schuldlosigkeit; 0,0040
+schutz; 0,0040
+schutzmaßnahme; 0,0040
+schwung; 0,2380
+schönheit; 0,3286
+selbstständigkeit; 0,0040
+sensation; 0,0040
+seriösität; 0,0040
+sicherheit; 0,0040
+siegeszug; 0,0040
+sinn; 0,0040
+solidarität; 0,0040
+sorgfältigkeit; 0,0040
+sorglosigkeit; 0,0040
+sparsamkeit; 0,0040
+spaß; 0,2823
+spende; 0,0040
+spezialität; 0,0040
+sprung; 0,0040
+stabilität; 0,0040
+standhaftigkeit; 0,0040
+stattlichkeit; 0,0040
+steigerung; 0,0040
+steigflug; 0,0040
+stifter; 0,0040
+stiftung; 0,0040
+stil; 0,3398
+stimulation; 0,0040
+stolz; 0,0797
+stärke; 0,0040
+stütze; 0,0040
+subvention; 0,0040
+suchtfaktor; 0,0040
+superlativ; 0,0040
+symbiose; 0,0040
+sympathie; 0,0040
+talent; 0,3352
+toleranz; 0,0040
+tradition; 0,0040
+treue; 0,2019
+triumph; 0,0040
+trophäe; 0,0040
+trost; 0,0706
+umbruch; 0,0040
+unabhängigkeit; 0,0040
+unbesiegbarkeit; 0,0040
+unerschrockenheit; 0,0040
+unfehlbarkeit; 0,0040
+unparteilichkeit; 0,0040
+unschuld; 0,0040
+unsterblichkeit; 0,0040
+unterstützung; 0,0040
+unverwundbarkeit; 0,0040
+unverzichtbarkeit; 0,0040
+unwiderstehlichkeit; 0,0040
+upgrade; 0,0040
+verantwortung; 0,0040
+verband; 0,0040
+verbesserung; 0,0040
+verbund; 0,0040
+verbundenheit; 0,0040
+verbündete; 0,0040
+verdienst; 0,0040
+veredelung; 0,0040
+verehrung; 0,0040
+vereinbarung; 0,0040
+vereinfachung; 0,0040
+vereinigung; 0,0040
+vererbung; 0,0040
+verfeinerung; 0,0040
+vergebung; 0,0040
+vergrößerung; 0,0040
+vergötterung; 0,0040
+verhandelung; 0,0040
+verlobung; 0,0040
+verlöbnis; 0,0040
+vermittlung; 0,0040
+vernunft; 0,0040
+verschönerung; 0,0040
+versicherung; 0,0040
+versprechen; 0,0040
+verstand; 0,0040
+verständnis; 0,0040
+verstärkung; 0,0040
+versöhnung; 0,0040
+verteidiger; 0,0040
+verteidigung; 0,0040
+vertrag; 0,0040
+vertrauen; 0,3512
+vertrauenswürdigkeit; 0,0040
+vertrauter; 0,0040
+vertrautheit; 0,0040
+verwendbarkeit; 0,0040
+verwirklichung; 0,0040
+vielseitigkeit; 0,0040
+vielzahl; 0,0040
+visionär; 0,0040
+vitalität; 0,0040
+vollständigkeit; 0,0040
+vorbereitung; 0,0040
+vorsicht; 0,0040
+vorsorge; 0,0040
+vorteil; 0,0040
+wachsamkeit; 0,0040
+wachstum; 0,0040
+wahrheit; 0,0040
+weichheit; 0,0040
+weisheit; 0,0040
+weitsichtigkeit; 0,0040
+wert; 0,0040
+wertschätzung; 0,0040
+wertsteigerung; 0,0040
+widerstandsfähigkeit; 0,0040
+wiederbelebung; 0,0040
+wiedergutmachung; 0,0040
+wiederherstellung; 0,0040
+wiederkehr; 0,0040
+wiedervereinigung; 0,0040
+wille; 0,0040
+wirksamkeit; 0,0040
+wissen; 0,0040
+witz; 0,0040
+wohlergehen; 0,0040
+wohlgefallen; 0,0040
+wohlstand; 0,0040
+wohltat; 0,0040
+wohltäter; 0,0040
+wohltätigkeit; 0,0040
+wohlwollen; 0,0040
+wunder; 0,0741
+wärme; 0,0040
+zenit; 0,0040
+ziel; 0,0040
+zuflucht; 0,0040
+zufriedenheit; 0,2207
+zugabe; 0,0882
+zugänglichkeit; 0,0040
+zulage; 0,0040
+zulässigkeit; 0,0040
+zuneigung; 0,0040
+zusammenarbeit; 0,0893
+zusammengehörigkeit; 0,0040
+zusammenhalt; 0,1947
+zuschuß; 0,0040
+zustimmung; 0,0040
+zuverlässigkeit; 0,0040
+zuversicht; 0,0727
+abgesichert; 0,0040
+abmachen; 0,0040
+abschließen; 0,0040
+absolut; 0,2418
+abstimmen; 0,0040
+abwechslungsreich; 0,5797
+addieren; 0,0040
+adrett; 0,1987
+agil; 0,1959
+akkurat; 0,0040
+aktiv; 0,0911
+aktualisieren; 0,0040
+aktuell; 0,0040
+akzeptabel; 0,0040
+akzeptieren; 0,0040
+allerbeste; 0,0040
+allererste; 0,0040
+allgemeingültig; 0,0040
+allumfassend; 0,0040
+anbieten; 0,0040
+anerkannt; 0,0785
+anerkennen; 0,0040
+anerkennenswert; 0,0040
+angemessen; 0,0040
+angenehm; 0,4887
+angesehen; 0,0040
+anheben; 0,0040
+anheitern; 0,0040
+ankurbeln; 0,0040
+anlocken; 0,0040
+annehmbar; 0,0040
+annähern; 0,0040
+anpassen; 0,0040
+anpassungsfähig; 0,0799
+anreichern; 0,0040
+ansehnlich; 0,0931
+ansprechend; 0,3382
+anspruchsvoll; 0,2216
+ansteigen; 0,0040
+anständig; 0,0977
+anteilig; 0,0040
+anvertrauen; 0,0040
+anziehen; 0,0040
+applaudieren; 0,0040
+artig; 0,2250
+atemberaubend; 0,3261
+attraktiv; 0,2162
+aufbereiten; 0,0040
+aufbessern; 0,0040
+aufblühen; 0,0845
+auferstehen; 0,0040
+aufmerksam; 0,0040
+aufmuntern; 0,0040
+aufmunternd; 0,0040
+aufrecht; 0,0040
+aufrichtig; 0,0040
+aufschwingen; 0,0040
+aufsteigen; 0,0040
+aufstocken; 0,0040
+auftreiben; 0,0040
+aufwendig; 0,0040
+aufwerten; 0,0040
+aufwärts; 0,0040
+ausbauen; 0,0040
+ausbilden; 0,0040
+ausdauern; 0,0040
+ausführlich; 0,0040
+ausgeflippt; 0,0756
+ausgeglichen; 0,0987
+ausgeweitet; 0,0040
+ausgewogen; 0,2060
+ausgewählt; 0,0040
+ausgezeichnet; 0,3146
+ausgleichen; 0,0040
+auskommen; 0,0040
+auskurieren; 0,0040
+ausreichen; 0,0040
+ausreichend; 0,0040
+aussichtsreich; 0,0040
+ausweiten; 0,0040
+auszeichnen; 0,0040
+authentisch; 0,1885
+autonom; 0,0040
+außergewöhnlich; 0,3395
+außerordentlich; 0,1137
+bahnbrechend; 0,0040
+barmherzig; 0,0744
+beachtenswert; 0,0040
+beachtlich; 0,0040
+beauftragen; 0,0040
+bedarfsgerecht; 0,0040
+bedarfsorientiert; 0,0040
+bedarft; 0,0040
+bedenken; 0,0040
+bedeuten; 0,0040
+bedeutend; 0,0040
+bedeutsam; 0,0040
+beeindrucken; 0,2126
+beeindruckend; 0,3408
+befreien; 0,0040
+befriedigen; 0,0809
+befriedigend; 0,2152
+befördern; 0,0040
+begehrt; 0,0040
+begeistern; 0,4324
+beglückend; 0,0040
+begnadet; 0,0040
+begnadigen; 0,0040
+begünstigen; 0,0040
+behaglich; 0,2007
+beheben; 0,0040
+beheizbar; 0,0040
+beherrscht; 0,4635
+behutsam; 0,0040
+behütet; 0,0040
+beilegen; 0,0040
+beispielhaft; 0,0040
+beisteuern; 0,0040
+beitragen; 0,0040
+beitreten; 0,0040
+bejubelt; 0,0040
+bekannt; 0,0040
+bekennend; 0,0040
+bekräftigen; 0,0040
+belastbar; 0,0040
+beleben; 0,0040
+belehrbar; 0,0040
+beliebt; 0,2172
+belohnen; 0,0893
+bemerkenswert; 0,4515
+beneidenswert; 0,0040
+bequem; 0,2344
+berauschend; 0,0809
+bereichern; 0,0718
+bereit; 0,0040
+bereitstellen; 0,0040
+beruhigen; 0,0040
+beruhigend; 0,2133
+berühmt; 0,3267
+bescheiden; 0,0956
+beschleunigen; 0,0040
+beschwichtigen; 0,0040
+besitzen; 0,0040
+besondere; 0,0040
+besonders; 0,5391
+besonnen; 0,0040
+besser; 0,0040
+bessern; 0,0040
+bestehen; 0,0040
+bestens; 0,0808
+bestmöglich; 0,0040
+bestätigen; 0,0854
+beteiligen; 0,0040
+beträchtlich; 0,0040
+bevorzugt; 0,0040
+bewegend; 0,0040
+bewirken; 0,0040
+bewundern; 0,0040
+bewundernswert; 0,0823
+bewundert; 0,0040
+bewährt; 0,4650
+bezaubernd; 0,3081
+blendend; 0,3096
+blühen; 0,2028
+bombastisch; 0,2053
+bombig; 0,0837
+boomen; 0,0040
+brandneu; 0,0040
+bravourös; 0,0040
+breitgefächert; 0,0040
+brillant; 0,3064
+brilliant; 0,1830
+brillieren; 0,0040
+brüderlich; 0,0040
+bunt; 0,3507
+bärenstark; 0,0040
+charakterstark; 0,0040
+charismatisch; 0,0040
+charmant; 0,3223
+chic; 0,0787
+clever; 0,2243
+cool; 0,0040
+dankbar; 0,0854
+danken; 0,1910
+dauerhaft; 0,2050
+denkwürdig; 0,0040
+detailliert; 0,0040
+dienlich; 0,0040
+diplomatisch; 0,0040
+diskret; 0,0040
+diszipliniert; 0,0040
+dufte; 0,1958
+duften; 0,2132
+durchdacht; 0,2131
+durchhalten; 0,0040
+durchschlagend; 0,0040
+dynamisch; 0,0040
+edel; 0,2235
+effektiv; 0,0971
+effektvoll; 0,0040
+effizient; 0,0040
+ehren; 0,0612
+ehrenwert; 0,0040
+ehrfürchtig; 0,0040
+ehrgeizig; 0,2076
+ehrlich; 0,1212
+ehrwürdig; 0,0040
+eifern; 0,0040
+eifrig; 0,0040
+eignen; 0,1006
+eindeutig; 0,0040
+eindrucksvoll; 0,3001
+einfach; 0,0040
+einfallsreich; 0,2031
+einflußreich; 0,0040
+einflussreich; 0,0040
+einhalten; 0,0040
+einheitlich; 0,0040
+einkaufen; 0,2249
+einmalig; 0,3137
+einnehmen; 0,0040
+einsparen; 0,0040
+einträglich; 0,0040
+einwandfrei; 0,0949
+einweihen; 0,0040
+einzigartig; 0,3078
+elegant; 0,2115
+empathisch; 0,0040
+empfehlen; 0,0040
+empfehlenswert; 0,0930
+energisch; 0,0040
+engagieren; 0,0040
+engagiert; 0,0869
+enorm; 0,0898
+enthusiastisch; 0,0040
+entlasten; 0,0040
+entlohnen; 0,0040
+enträtseln; 0,0040
+entschlossen; 0,0040
+entschlüsseln; 0,0040
+entschädigen; 0,0040
+entspannen; 0,2406
+entwirren; 0,0040
+entzückend; 0,0844
+epochal; 0,0040
+erarbeiten; 0,0040
+erben; 0,0040
+erfahren; 0,0927
+erfolgreich; 0,2193
+erfreuen; 0,2112
+erfreulich; 0,2197
+erfrischend; 0,2227
+erfüllen; 0,0040
+ergebnisreich; 0,0040
+ergiebig; 0,0040
+ergänzen; 0,2074
+erhalten; 0,0040
+erhebend; 0,0040
+erheblich; 0,0040
+erholen; 0,2357
+erholsam; 0,2188
+erhältlich; 0,0040
+erhöhen; 0,0040
+erkennbar; 0,0040
+erklimmen; 0,0040
+erklärt; 0,0040
+erlauben; 0,0040
+erleichtern; 0,0040
+erleuchten; 0,0040
+erlösen; 0,0040
+ermunternd; 0,0040
+ermutigen; 0,0040
+ermutigend; 0,0735
+ermöglichen; 0,0040
+erneuern; 0,0040
+ernsthaft; 0,0040
+erreichen; 0,0040
+erschaffen; 0,0040
+erschlossen; 0,0040
+ersprießlich; 0,0040
+erstaunen; 0,0040
+erstaunlich; 0,0040
+erstklassig; 0,1967
+erstrangig; 0,0040
+erstrebenswert; 0,0765
+ertragreich; 0,0040
+erweitern; 0,0040
+erweitert; 0,0040
+erwünscht; 0,0040
+erzeugen; 0,0040
+erzielen; 0,0040
+etabliert; 0,0040
+euphorisch; 0,5505
+exakt; 0,0040
+exklusiv; 0,0040
+exorbitant; 0,0040
+exotisch; 0,1944
+explosiv; 0,0040
+exponiert; 0,0040
+exquisit; 0,0040
+extravagant; 0,0040
+exzellent; 0,4198
+fabelhaft; 0,1952
+fair; 0,3281
+famos; 0,2018
+fantasievoll; 0,0040
+fantastisch; 0,3319
+faszinieren; 0,0663
+faszinierend; 0,3037
+favorisieren; 0,0040
+fehlerfrei; 0,0040
+feiern; 0,4940
+fein; 0,4734
+fertig; 0,3757
+fertigen; 0,0040
+fesch; 0,0806
+fesselnd; 0,0040
+festlich; 0,2021
+fidel; 0,0040
+finanzieren; 0,0040
+findig; 0,0040
+fit; 0,3686
+fleißig; 0,3571
+flexibel; 0,0040
+flink; 0,0878
+florieren; 0,0040
+flott; 0,3394
+flüssig; 0,2229
+formvollendet; 0,0040
+fortdauernd; 0,0040
+fortschreiten; 0,0040
+frei; 0,0040
+freikommen; 0,0040
+freisprechen; 0,0040
+freiwillig; 0,0040
+freudig; 0,3256
+freuen; 0,2198
+freundlich; 0,6022
+freundschaftlich; 0,0040
+friedlich; 0,0924
+friedvoll; 0,0908
+froh; 0,1364
+frohlocken; 0,0040
+fruchtbar; 0,0878
+fröhlich; 0,2501
+fulminant; 0,0040
+funkeln; 0,0040
+funktionieren; 0,0040
+funktionierend; 0,2022
+funktionsfähig; 0,0040
+furchtlos; 0,0040
+fähig; 0,0040
+fördern; 0,0040
+führen; 0,0040
+führend; 0,0040
+füllen; 0,0040
+galant; 0,0040
+garantiert; 0,0040
+gastfreundlich; 0,0854
+gedeihen; 0,2166
+gedeihlich; 0,0040
+gediegen; 0,0831
+geduldig; 0,3342
+geeignet; 0,0974
+gefallen; 0,2578
+gefeiert; 0,3403
+gefesselt; 0,0040
+gefestigt; 0,0040
+gefragt; 0,0040
+geglückt; 0,0040
+gehorsam; 0,0040
+gehörig; 0,0040
+geil; 0,0040
+gelassen; 0,2325
+geliebt; 0,2315
+gelohnt; 0,5859
+gelungen; 1,0000
+gemeinsam; 0,0040
+gemeinschaftlich; 0,0040
+gemütlich; 0,3680
+genau; 0,0040
+genehm; 0,0040
+genehmigen; 0,0040
+genesen; 0,0040
+genial; 0,2156
+genießbar; 0,0040
+genießen; 0,4983
+genügend; 0,1019
+geordnet; 0,0936
+gepflegt; 0,3499
+gerecht; 0,0040
+gerechtfertigt; 0,0040
+geruhsam; 0,0769
+geräumig; 0,1008
+gerührt; 0,4460
+geschickt; 0,0040
+geschmackvoll; 0,2116
+geschäftig; 0,0040
+geschätzt; 0,0040
+gesteigert; 0,0040
+gestiegen; 0,0040
+gesund; 0,1554
+getreu; 0,0040
+gewachsen; 0,1201
+gewaltfrei; 0,0040
+gewaltig; 0,0040
+gewichtig; 0,0040
+gewinnbringend; 0,0040
+gewinnen; 0,0040
+gewissenhaft; 0,0040
+gewährleisten; 0,0040
+gewünscht; 0,0040
+gezielt; 0,0040
+gigantisch; 0,5459
+glamourös; 0,0040
+glanzvoll; 0,0040
+glasklar; 0,0040
+glatt; 0,1099
+glaubwürdig; 0,0893
+gleichstellen; 0,0040
+gleichwertig; 0,0040
+glorios; 0,0040
+glorreich; 0,0040
+glänzen; 0,3397
+glänzend; 0,2082
+glücklich; 0,1150
+glühend; 0,0040
+gnädig; 0,0040
+golden; 0,0040
+goldig; 0,1991
+grandios; 0,1843
+gratulieren; 0,0650
+gravierend; 0,0040
+greifbar; 0,0886
+grenzenlos; 0,0040
+groß; 0,3694
+großartig; 0,4606
+großspurig; 0,0040
+großzügig; 0,2077
+grundlegend; 0,0040
+grundsätzlich; 0,0040
+größtmöglich; 0,0040
+gründlich; 0,0040
+gut; 0,3716
+gutgehend; 0,0040
+gönnen; 0,3387
+göttlich; 0,0040
+gültig; 0,0040
+günstig; 0,0946
+gütig; 0,0040
+gütlich; 0,0040
+handfest; 0,0040
+handlich; 0,2025
+harmonisch; 0,3489
+harmonisieren; 0,0828
+hartnäckig; 0,0040
+hauptsächlich; 0,0040
+heben; 0,2219
+heil; 0,3414
+heilen; 0,0040
+heilig; 0,0727
+heilsam; 0,2007
+heiraten; 0,0040
+heiter; 0,2013
+heiß; 0,3557
+helfen; 0,3730
+hell; 0,2350
+heranwachsen; 0,0867
+heraufsetzen; 0,0040
+herausgehoben; 0,0040
+herausragen; 0,0040
+herrlich; 0,4821
+herrschaftlich; 0,0040
+hervorragend; 0,5891
+herzig; 0,0040
+herzlich; 0,0040
+hilfreich; 0,0926
+hilfsbereit; 0,3377
+himmlisch; 0,2088
+hinausgehend; 0,0040
+hingeben; 0,0762
+hinhauen; 0,0040
+hinreichend; 0,0040
+hinreißend; 0,0841
+hinterlassen; 0,0040
+hinzufügen; 0,0040
+hinzunehmen; 0,0040
+historisch; 0,0040
+hoch; 0,0040
+hochattraktiv; 0,0040
+hochgestellt; 0,0040
+hochgradig; 0,0040
+hochhalten; 0,0040
+hochheben; 0,0040
+hochkarätig; 0,0040
+hochklassig; 0,0040
+hochrangig; 0,0040
+hochtreibend; 0,0040
+hochwertig; 0,0849
+hoffen; 0,2318
+hoffnungsfroh; 0,0040
+hoffnungsvoll; 0,1853
+human; 0,0040
+humanitär; 0,0040
+humorvoll; 0,3170
+hundertprozentig; 0,0796
+höchstmöglich; 0,0040
+höflich; 0,0040
+hörenswert; 0,0040
+hübsch; 0,4629
+ideal; 0,0937
+idyllisch; 0,0040
+illuster; 0,0040
+immens; 0,0040
+imponierend; 0,0040
+imposant; 0,0040
+inbrünstig; 0,0040
+individuell; 0,0040
+ingeniös; 0,0040
+innovativ; 0,3302
+inspirieren; 0,0040
+inspirierend; 0,0786
+intakt; 0,0040
+integer; 0,0040
+integrieren; 0,0908
+intelligent; 0,1238
+intensiv; 0,0040
+interessant; 0,2488
+interessieren; 0,0040
+interessiert; 0,0040
+investieren; 0,0040
+jubeln; 0,0756
+kinderleicht; 0,0040
+klaglos; 0,0040
+klar; 0,0040
+klasse; 0,3474
+klassisch; 0,0040
+klettern; 0,4570
+klimatisiert; 0,0040
+klug; 0,3532
+klären; 0,0040
+knorke; 0,0040
+knuddelig; 0,2086
+knuffig; 0,0974
+kollegial; 0,0809
+komfortabel; 0,0800
+kommod; 0,0040
+kommunikativ; 0,0040
+kompatibel; 0,0040
+kompensieren; 0,0040
+kompetent; 0,0789
+komplett; 0,0040
+konfliktfrei; 0,0040
+kongenial; 0,0040
+konkret; 0,0040
+konkurrenzfähig; 0,0040
+konsequent; 0,0040
+konsistent; 0,0040
+konsolidieren; 0,0040
+konstant; 0,0870
+konstruktiv; 0,0894
+konsultieren; 0,0040
+kontinuierlich; 0,0040
+konzertiert; 0,0040
+kooperativ; 0,0040
+kooperieren; 0,0040
+koordinieren; 0,0040
+koordiniert; 0,0040
+korrekt; 0,0040
+kostbar; 0,0777
+kostengünstig; 0,0040
+kostenlos; 0,0040
+kraftvoll; 0,2214
+kreativ; 0,5865
+kritisch; 0,0040
+kräftig; 0,2408
+kulant; 0,0040
+kultiviert; 0,0731
+kunstreich; 0,0040
+kunstvoll; 0,0040
+kurieren; 0,0040
+kümmern; 0,2016
+künstlerisch; 0,0040
+lachen; 0,0135
+langlebig; 0,2026
+lautstark; 0,0040
+lebendig; 0,0947
+lebensfähig; 0,0040
+lebhaft; 0,2146
+legal; 0,0040
+legendär; 0,0040
+legitim; 0,0040
+leicht; 0,0040
+leidenschaftlich; 0,1988
+leistungsfähig; 0,3222
+leistungsstark; 0,0040
+lernen; 0,2492
+leuchtend; 0,0821
+leutselig; 0,0040
+liberal; 0,0040
+lieb; 0,1131
+liebenswert; 0,2077
+liebenswürdig; 0,2001
+liebevoll; 0,4657
+lindern; 0,0040
+loben; 0,4445
+lobenswert; 0,0821
+locker; 0,2381
+logisch; 0,0936
+lohnen; 0,0040
+lohnend; 0,1875
+loyal; 0,0040
+lukrativ; 0,0040
+luxuriös; 0,0835
+lächeln; 0,3399
+lässig; 0,2095
+löblich; 0,0040
+lösen; 0,0040
+lückenlos; 0,0040
+magisch; 0,0040
+majestätisch; 0,0730
+makellos; 0,2000
+malerisch; 0,0753
+markant; 0,1935
+massiv; 0,0040
+maximal; 0,0040
+maximieren; 0,0040
+meisterhaft; 0,0040
+meisterlich; 0,0040
+menschenwürdig; 0,0040
+menschlich; 0,3324
+messbar; 0,0040
+mild; 0,3303
+miteinander; 0,3697
+mitfühlen; 0,0922
+mitmenschlich; 0,0040
+mobil; 0,0040
+mobilisieren; 0,0040
+modern; 0,2287
+modernisieren; 0,0040
+mondän; 0,0040
+monumental; 0,0040
+moralisch; 0,0040
+motivieren; 0,2248
+motiviert; 0,3541
+mustergültig; 0,0040
+mutig; 0,3435
+mächtig; 0,2277
+mögen; 0,3450
+möglich; 0,0040
+mühelos; 0,0040
+nachahmenswert; 0,0818
+nachhaltig; 0,0040
+nah; 0,2267
+namhaft; 0,0040
+nennenswert; 0,0040
+nett; 0,1405
+neu; 0,0040
+niedlich; 0,0987
+nutzbringend; 0,0040
+nähren; 0,0040
+nützen; 0,0040
+nützlich; 0,2302
+offensichtlich; 0,0040
+optimal; 0,2162
+optimistisch; 0,0040
+ordentlich; 0,0073
+ordnungsgemäß; 0,0040
+original; 0,0040
+packend; 0,0040
+paradiesisch; 0,2068
+partnerschaftlich; 0,0040
+passend; 0,1201
+perfekt; 0,7299
+pflegen; 0,2325
+phantasievoll; 0,3064
+phantastisch; 0,5650
+phänomenal; 0,0800
+planmäßig; 0,0040
+planvoll; 0,0040
+plausibel; 0,0040
+pompös; 0,0040
+populär; 0,0040
+positiv; 0,0040
+potent; 0,0864
+prachtvoll; 0,0040
+praktikabel; 0,0744
+praktisch; 0,1026
+prall; 0,0900
+preisgünstig; 0,0040
+prima; 0,5766
+privilegiert; 0,0040
+problemlos; 0,0040
+produktiv; 0,0040
+professionell; 0,4670
+profiliert; 0,0040
+profitabel; 0,0040
+profitieren; 0,0040
+progressiv; 0,0040
+prominent; 0,0040
+protzig; 0,0040
+prunkvoll; 0,0040
+prächtig; 0,3350
+präzise; 0,0040
+puppig; 0,0040
+pünktlich; 0,0860
+qualifizieren; 0,0040
+qualifiziert; 0,0040
+qualitativ; 0,0040
+qualitätsvoll; 0,0040
+quicklebendig; 0,0040
+raffiniert; 0,0040
+rational; 0,0040
+realistisch; 0,2089
+rechtlich; 0,0040
+rechtmäßig; 0,0040
+rechtsgültig; 0,0040
+rehabilitieren; 0,0040
+reibungslos; 0,1965
+reich; 0,1247
+reichhaltig; 0,2090
+reichlich; 0,3617
+reif; 0,0807
+reifen; 0,0886
+rein; 0,0040
+reinigen; 0,0040
+reizend; 0,0787
+reizvoll; 0,0040
+relevant; 0,0040
+renommiert; 0,0040
+renovieren; 0,0040
+rentabel; 0,0040
+reparieren; 0,0040
+repräsentativ; 0,0040
+respektabel; 0,0040
+respektieren; 0,0040
+respektvoll; 0,0040
+retten; 0,0040
+revanchieren; 0,0040
+richtig; 0,0040
+richtigstellen; 0,0040
+riesengroß; 0,0040
+riesig; 0,4554
+robust; 0,0968
+romantisch; 0,6965
+rosarot; 0,0040
+rosig; 0,0755
+ruhig; 0,3815
+ruhmreich; 0,0040
+rückhaltlos; 0,0040
+rücksichtsvoll; 0,0040
+rückversichern; 0,0040
+rührig; 0,0040
+sachgemäß; 0,0040
+sagenhaft; 0,0907
+sanft; 0,3380
+satt; 0,3557
+sauber; 0,3553
+schaffen; 0,0040
+scharf; 0,2248
+schenken; 0,2040
+schick; 0,3372
+schillern; 0,0040
+schillernd; 0,0040
+schlagend; 0,0040
+schlank; 0,2349
+schlau; 0,3410
+schlüssig; 0,0809
+schmackhaft; 0,2170
+schmeichelnd; 0,1874
+schmuck; 0,0040
+schmücken; 0,0040
+schnell; 0,1169
+schuldlos; 0,0040
+schwunghaft; 0,0040
+schätzen; 0,1175
+schön; 0,0081
+sehenswert; 0,0947
+selbstständig; 0,0040
+sensationell; 0,0860
+sensibel; 0,0980
+seriös; 0,0040
+sexy; 0,3453
+sicher; 0,3733
+sichern; 0,0040
+sicherstellen; 0,0040
+sichtbar; 0,0040
+simpel; 0,0040
+sinnvoll; 0,0040
+solid; 0,0040
+solidarisch; 0,0040
+sonnendurchflutet; 0,0040
+sonnig; 0,2244
+sorgen; 0,2234
+sorgenfrei; 0,0040
+sorgfältig; 0,2119
+sorglos; 0,0040
+sorgsam; 0,0040
+souverän; 0,0711
+spannend; 0,7165
+sparen; 0,0040
+sparsam; 0,0907
+spaßig; 0,0969
+spektakel; 0,0040
+spektakulär; 0,0925
+spenden; 0,0040
+speziell; 0,0040
+spielend; 0,0040
+spielerisch; 0,2000
+spitze; 0,2112
+spürbar; 0,0040
+stabil; 0,1016
+stabilisieren; 0,0040
+standhaft; 0,0040
+stark; 0,0040
+stattlich; 0,0876
+staunen; 0,0040
+steigen; 0,0040
+steigend; 0,0040
+steigern; 0,0040
+stiften; 0,0040
+stilsicher; 0,0040
+stilvoll; 0,3197
+stimulieren; 0,0040
+stolz; 0,5161
+strahlen; 0,2092
+strahlend; 0,2180
+stärken; 0,0040
+störungsfrei; 0,0040
+stützen; 0,0040
+subventionieren; 0,0040
+super; 0,5012
+superschnell; 0,0040
+sympathisch; 0,4529
+sympathisieren; 0,0040
+systematisch; 0,0040
+süchtig; 0,0845
+süß; 0,3616
+tadellos; 0,3090
+tadelsfrei; 0,0040
+talentiert; 0,3218
+tatkräftig; 0,0040
+tauglich; 0,0040
+tiefgreifend; 0,0040
+tierisch; 0,1135
+tolerant; 0,1984
+tolerieren; 0,0040
+toll; 0,5066
+top; 0,3186
+toppen; 0,0040
+traditionell; 0,0040
+traditionsreich; 0,0040
+tragfähig; 0,0040
+transparent; 0,0040
+traumhaft; 0,5665
+treffend; 0,1023
+trefflich; 0,0040
+treu; 0,3526
+triumphal; 0,0040
+triumphieren; 0,0040
+trösten; 0,0040
+tätig; 0,0040
+ultimativ; 0,0040
+umfangreich; 0,0040
+umfassend; 0,0040
+umgänglich; 0,2129
+umjubelt; 0,0040
+umsichtig; 0,0846
+umsorgen; 0,0863
+umwerfend; 0,1991
+unabhängig; 0,0040
+unangefochten; 0,0040
+unantastbar; 0,0040
+unaufholbar; 0,0040
+unbedingt; 0,0040
+unbegrenzt; 0,0040
+unberührt; 0,0040
+unbeschreiblich; 0,1156
+unbeschwert; 0,3349
+unbesiegbar; 0,0040
+unbestreitbar; 0,0040
+unbestritten; 0,0040
+unbezahlbar; 0,0040
+uneingeschränkt; 0,0040
+uneinholbar; 0,0040
+unerhört; 0,0040
+unermesslich; 0,0040
+unermeßlich; 0,0040
+unermüdlich; 0,0040
+unerreicht; 0,0040
+unerschrocken; 0,0040
+unersetzlich; 0,0040
+unfehlbar; 0,0040
+ungeahnt; 0,0040
+ungebrochen; 0,0040
+ungeteilt; 0,0040
+ungezwungen; 0,0040
+unglaublich; 0,3698
+universell; 0,0040
+unkompliziert; 0,0782
+unparteiisch; 0,0040
+unschlagbar; 0,0040
+unschuldig; 0,0040
+unschätzbar; 0,0040
+unsterblich; 0,0040
+unternehmerisch; 0,0040
+unterstützen; 0,0040
+untrennbar; 0,0040
+unumschränkt; 0,0040
+unumstritten; 0,0040
+ununterbrochen; 0,0040
+unvergleichbar; 0,0833
+unvergleichlich; 0,0967
+unverhofft; 0,0040
+unverkrampft; 0,0040
+unverwundbar; 0,0040
+unverzichtbar; 0,0040
+unwiderstehlich; 0,1874
+unzweifelhaft; 0,0040
+unübertrefflich; 0,0780
+unübertroffen; 0,0753
+upgraden; 0,0040
+verantwortlich; 0,0040
+verantwortungsbewußt; 0,0040
+verantwortungsvoll; 0,0040
+verbessern; 0,0040
+verbinden; 0,0040
+verbindlich; 0,0040
+verblüffend; 0,0040
+verdienen; 0,0989
+verdient; 0,3612
+veredeln; 0,0040
+verehren; 0,0040
+verehrt; 0,0040
+vereidigen; 0,0040
+vereinen; 0,0040
+vereinfachen; 0,0040
+vererben; 0,0040
+verfeinern; 0,0040
+verführerisch; 0,0040
+vergeben; 0,0040
+vergnügen; 0,1838
+vergolden; 0,0040
+vergrößern; 0,0040
+vergöttern; 0,0040
+vergöttert; 0,0040
+verhandeln; 0,0040
+verheißungsvoll; 0,0040
+veritabel; 0,0040
+verlockend; 0,0040
+verlässlich; 0,0854
+vermachen; 0,0040
+vermehrt; 0,0040
+vermitteln; 0,0699
+vernünftig; 0,3436
+verschlingen; 0,0040
+verschönern; 0,0040
+versichern; 0,0040
+versiert; 0,0040
+verstehen; 0,0957
+verständlich; 0,0978
+verstärken; 0,0040
+versöhnen; 0,0040
+versöhnlich; 0,0040
+verteidigen; 0,0040
+vertrauenerweckend; 0,0040
+vertrauensvoll; 0,0040
+vertrauenswürdig; 0,0040
+vertraulich; 0,0040
+vertraut; 0,2266
+verwendbar; 0,0859
+verwirklichen; 0,0040
+verwöhnen; 0,3571
+verzeihen; 0,0040
+verzückt; 0,0040
+vielfältig; 0,0040
+vielseitig; 0,0957
+vielversprechend; 0,0849
+vital; 0,2122
+vollkommen; 0,0945
+vollständig; 0,0040
+voranbringen; 0,0040
+vorankommen; 0,0040
+vorantreiben; 0,0040
+vorbehaltlos; 0,0040
+vorbereiten; 0,1036
+vorbildlich; 0,3188
+vorsichtig; 0,2313
+vorsorgen; 0,0878
+vorsorglich; 0,0040
+vorteilhaft; 0,0040
+vorwärts; 0,0961
+vorzeigbar; 0,0040
+vorzüglich; 0,3223
+wachsam; 0,0891
+wachsen; 0,3607
+wachsend; 0,0040
+wagen; 0,0040
+wahr; 0,2176
+wahren; 0,0040
+warm; 0,3796
+warmherzig; 0,1921
+wegweisend; 0,0040
+weich; 0,3591
+weise; 0,2244
+weiterempfehlen; 0,2101
+weitgehend; 0,0040
+weitläufig; 0,1966
+weitreichend; 0,0040
+weiträumig; 0,0040
+weitsichtig; 0,0040
+weltberühmt; 0,0040
+wertig; 0,0040
+wertschätzen; 0,0040
+wertvoll; 0,3570
+wichtig; 0,3822
+widerstandsfähig; 0,0877
+wiederaufleben; 0,0040
+wiederbeleben; 0,0040
+wiedergewinnen; 0,0040
+wiedergutmachen; 0,0040
+wiederherstellen; 0,0040
+wiederkehren; 0,0040
+wiedervereinigen; 0,0040
+willensstark; 0,0040
+willkommen; 0,0040
+wirksam; 0,0040
+wirkungsvoll; 0,0040
+wirtschaftlich; 0,0040
+witzig; 0,4463
+wohlbehalten; 0,0883
+wohlgeordnet; 0,0040
+wohlhabend; 0,2010
+wohlig; 0,3200
+wohltuend; 0,2113
+wohltätig; 0,0040
+wohlwollend; 0,0040
+wohnlich; 0,0885
+wunderbar; 0,7234
+wundersam; 0,0040
+wunderschön; 0,7048
+wundervoll; 0,3080
+wunschgemäß; 0,0040
+wärmen; 0,1956
+wärmstens; 0,0040
+wünschenswert; 0,0040
+würdevoll; 0,0040
+würdig; 0,0801
+würdigen; 0,2056
+zauberhaft; 0,0040
+zeitsparend; 0,0040
+zielgerichtet; 0,0040
+zielstrebig; 0,1955
+zivilisiert; 0,0040
+zufließen; 0,0040
+zufrieden; 0,3930
+zufriedenstellend; 0,0040
+zufügen; 0,0040
+zugeben; 0,0040
+zugreifen; 0,0040
+zugänglich; 0,0040
+zukunftsweisend; 0,0859
+zulegen; 0,0922
+zulässig; 0,0040
+zurückgewinnen; 0,0040
+zusammenhalten; 0,0834
+zuschießen; 0,0040
+zustimmen; 0,0040
+zuverlässig; 0,2052
+zuversichtlich; 0,2179
+zuvorkommend; 0,6669
+zweifellos; 0,0839
+übereinkunft; 0,0040
+übereinstimmung; 0,0040
+überfluß; 0,0040
+überlegenheit; 0,0040
+überlegung; 0,0040
+überparteilichkeit; 0,0040
+überschaubarkeit; 0,0040
+überschwänglichkeit; 0,0040
+überzeugung; 0,0040
+ästhetisch; 0,2038
+überdurchschnittlich; 0,0900
+überglücklich; 0,0040
+übergroß; 0,0040
+überholen; 0,0040
+überleben; 0,0040
+überlegen; 0,0040
+überlegt; 0,0040
+übermenschlich; 0,0040
+überragend; 0,0040
+überraschend; 0,0040
+überrascht; 0,2438
+überrunden; 0,0040
+überschaubar; 0,0040
+überschwänglich; 0,0040
+überschäumen; 0,0040
+übersichtlich; 0,2253
+übertreffen; 0,0040
+überwinden; 0,0040
+überwältigend; 0,3312
+überwältigt; 0,0578
+überzeugen; 0,3396
+überzeugend; 0,4489
+überzeugt; 0,2381
+üppig; 0,2010
+abbau;-0,0580
+abbruch;-0,0048
+abdankung;-0,0048
+abdämpfung;-0,0048
+abfall;-0,0048
+abfuhr;-0,3367
+abgrund;-0,3465
+abhängigkeit;-0,3653
+ablehnung;-0,5118
+ablenkung;-0,0435
+abnahme;-0,0048
+abneigung;-0,0048
+abnutzung;-0,0048
+abriss;-0,0048
+abrutsch;-0,0048
+abschaffung;-0,0580
+abschreckung;-0,0048
+abschreibung;-0,3345
+abschuß;-0,0048
+abschuss;-0,0048
+abschwächung;-0,1935
+absenkung;-0,3434
+abspaltung;-0,0048
+absperrung;-0,0048
+abstieg;-0,3215
+abstoß;-0,0048
+abstrich;-0,3201
+abstumpfung;-0,0048
+absturz;-0,4739
+absurdität;-0,0048
+abweichung;-0,3462
+abweisung;-0,0048
+abwertung;-0,3283
+abwärtstrend;-0,1941
+abzocke;-0,0048
+achtlosigkeit;-0,0048
+affäre;-0,1794
+aggression;-0,4889
+aggressivität;-0,1958
+aggressor;-0,3155
+agitation;-0,0048
+alarm;-0,0048
+alptraum;-0,0048
+albtraum;-0,0048
+amateur;-0,0048
+ambivalenz;-0,3266
+androhung;-0,0048
+anfälligkeit;-0,0048
+angreifer;-0,0048
+angriff;-0,2120
+angst;-0,5140
+anklage;-0,3468
+anmaßung;-0,0048
+annullierung;-0,0048
+anomalie;-0,0048
+anspannung;-0,0048
+anstrengung;-0,0048
+antipathie;-0,0048
+arbeitslose;-0,3549
+arbeitslosigkeit;-0,3654
+armut;-0,2038
+arroganz;-0,3289
+arschloch;-0,1901
+attacke;-0,4700
+aufhebung;-0,0048
+auflösung;-0,0048
+aufregung;-0,0386
+aufruhr;-0,0048
+aufschrei;-0,0048
+aufstand;-0,0048
+ausbeute;-0,1894
+ausbeuter;-0,0048
+ausbeutung;-0,0048
+ausbruch;-0,0048
+auseinandersetzung;-0,0603
+ausfall;-0,2164
+ausgrenzung;-0,6260
+auslöschung;-0,0048
+ausrottung;-0,0048
+ausschließung;-0,0048
+aussetzung;-0,0048
+banalität;-0,0048
+bankrott;-0,0048
+barriere;-0,0048
+bedeutungslosigkeit;-0,0048
+bedrohung;-0,0048
+bedrängung;-0,0048
+bedrückung;-0,0435
+bedürftige;-0,0048
+beeinträchtigung;-0,3472
+befall;-0,0048
+befangenheit;-0,0048
+befürchtung;-0,4903
+begrenzung;-0,0048
+behinderung;-0,3578
+belastung;-0,3711
+beleidigung;-0,3432
+belästigung;-0,0048
+beschneidung;-0,3313
+beschränkung;-0,3518
+beschuldigung;-0,3209
+beschwerde;-0,0048
+beschwerlichkeit;-0,0048
+beschädigung;-0,0048
+beschäftigungslose;-0,0048
+beschäftigungsloser;-0,0048
+beschämung;-0,0048
+beseitigung;-0,0048
+besorgnis;-0,0048
+bestechung;-0,0048
+besteuerung;-0,0048
+bestrafung;-0,0048
+bestürzung;-0,0048
+betrug;-0,4913
+betrüger;-0,3311
+beule;-0,0048
+beunruhigung;-0,3240
+bevormundung;-0,0048
+bitterkeit;-0,0048
+blindheit;-0,0048
+blockade;-0,0048
+blockierung;-0,0048
+blödheit;-0,0048
+bombardement;-0,0048
+bombardierung;-0,0048
+bombe;-0,0048
+bosheit;-0,3371
+brand;-0,0048
+bruch;-0,3463
+brutalität;-0,0048
+bußgeld;-0,3377
+bösartigkeit;-0,3189
+bösewicht;-0,0048
+bürde;-0,0524
+chaos;-0,3489
+crash;-0,1885
+defekt;-0,0048
+defizit;-0,3470
+deformation;-0,0048
+degradierung;-0,3137
+dekadenz;-0,0048
+demütigung;-0,0048
+denkfehler;-0,0048
+depression;-0,4951
+desaster;-0,3413
+desinteresse;-0,3348
+dezimierung;-0,0048
+dieb;-0,1962
+diebstahl;-0,3505
+diffamierung;-0,4591
+diktator;-0,0048
+dilemma;-0,3403
+diskriminierung;-0,0048
+dissens;-0,0048
+dominierung;-0,0048
+doppeldeutigkeit;-0,0048
+doppelspiel;-0,0048
+dreck;-0,0048
+drift;-0,0048
+drohung;-0,0048
+drosselung;-0,3178
+dummheit;-0,4877
+dummkopf;-0,0048
+dunkelheit;-0,3547
+durcheinander;-0,0048
+dussel;-0,3094
+dämpfer;-0,0048
+dürre;-0,0048
+düsternis;-0,0048
+egoist;-0,3179
+ehebruch;-0,4743
+einbrecher;-0,0048
+einbruch;-0,3498
+einbuße;-0,0048
+einsamkeit;-0,3390
+einschlag;-0,0048
+einschränkung;-0,2048
+einschüchterung;-0,0048
+insturz;-0,0048
+ekel;-0,4620
+elend;-0,2013
+empörung;-0,0048
+ende;-0,2088
+energielosigkeit;-0,0048
+entbindung;-0,0048
+entfremdung;-0,0048
+entführung;-0,0048
+enthauptung;-0,0048
+entlassung;-0,0048
+entmutigung;-0,0048
+enttäuschung;-0,3378
+entziehung;-0,0048
+epidemie;-0,0048
+ermahnung;-0,0048
+ermordung;-0,3320
+ermüdung;-0,0048
+erniedrigung;-0,3259
+ernüchterung;-0,0048
+erosion;-0,0666
+erpressung;-0,0048
+erschöpfung;-0,0595
+erschütterung;-0,0048
+explosion;-0,0048
+fahrlässigkeit;-0,0048
+farce;-0,3349
+faschist;-0,0048
+faulheit;-0,6110
+fehde;-0,0048
+fehlanzeige;-0,0048
+fehler;-0,6752
+fehlermeldung;-0,4765
+fehlkauf;-0,0048
+fehlkonstruktion;-0,0048
+fehlleistung;-0,0048
+fehltritt;-0,0048
+fehlverhalten;-0,3461
+feind;-0,8054
+feuer;-0,0445
+fiasko;-0,0048
+finanzkrise;-0,3283
+finte;-0,0048
+flaute;-0,0413
+fluch;-0,3534
+flucht;-0,0048
+flüchtiger;-0,0048
+flüchtigkeit;-0,0048
+flüchtling;-0,0048
+frechheit;-0,4665
+frust;-0,4690
+frustration;-0,3354
+furcht;-0,5012
+fälschung;-0,3377
+gammler;-0,0048
+gangster;-0,3375
+garnichts;-0,0048
+gauner;-0,4592
+gebrechen;-0,3251
+gedränge;-0,0571
+gefahr;-1,0000
+gefecht;-0,3373
+gefährdung;-0,0048
+gegner;-0,3440
+geisteskrankheit;-0,0048
+geistlosigkeit;-0,0048
+geiz;-0,0048
+geizhals;-0,0048
+geizkragen;-0,0048
+geldstrafe;-0,3299
+geschmacklosigkeit;-0,0048
+geschäftsauflösung;-0,0048
+gestank;-0,0048
+gewalt;-0,5363
+gewalttätige;-0,0048
+gewalttätiger;-0,0048
+gift;-0,3505
+glanzlosigkeit;-0,0048
+gleichgültigkeit;-0,3430
+glücklosigkeit;-0,0048
+gnadenlosigkeit;-0,0048
+grausamkeit;-0,3348
+groll;-0,6021
+groteske;-0,0048
+habgier;-0,0532
+haft;-0,0048
+handgemenge;-0,3174
+handicap;-0,0426
+handikap;-0,0426
+hass;-0,5014
+heimsuchung;-0,0048
+hektik;-0,0048
+hemmung;-0,0048
+herausforderung;-0,0048
+heuchelei;-0,0048
+heuchler;-0,3251
+hilflosigkeit;-0,3394
+hindernis;-0,0048
+hinterhalt;-0,0048
+hinterlist;-0,0048
+hohn;-0,0048
+horror;-0,0509
+hunger;-0,3531
+hungersnot;-0,4739
+hungertod;-0,0048
+hysterie;-0,3386
+härte;-0,0446
+hölle;-0,5052
+idiot;-0,0048
+illegalität;-0,0048
+immobilität;-0,0048
+ineffizienz;-0,0048
+infektion;-0,2059
+infiltration;-0,0048
+inflation;-0,3462
+inkompetenz;-0,0048
+inkonsequenz;-0,0455
+inkonsistenz;-0,3097
+instabilität;-0,3358
+intervention;-0,1975
+invasion;-0,0048
+isolation;-0,3453
+jammer;-0,4613
+jähzorn;-0,0048
+kampf;-0,5372
+kapitalverbrechen;-0,0048
+kapitulation;-0,0048
+katastrophe;-0,5027
+keim;-0,0048
+klage;-0,0048
+klischee;-0,4800
+kläger;-0,3673
+knappheit;-0,0048
+kollaps;-0,0048
+kollision;-0,3323
+komplikation;-0,0048
+konflikt;-0,0048
+konfrontation;-0,0048
+konjunkturrückgang;-0,0048
+konkurrenz;-0,0461
+konkurrenzkampf;-0,0494
+konkurs;-0,0048
+kontroverse;-0,3329
+kopfschmerz;-0,1993
+korruption;-0,3439
+kostspieligkeit;-0,0048
+krach;-0,0048
+krachen;-0,0048
+krankheit;-0,6858
+krieg;-0,5364
+kriminalität;-0,0048
+krise;-0,3621
+kritik;-0,5308
+kritiker;-0,6494
+kränkung;-0,0048
+krüppel;-0,3203
+kurseinbruch;-0,0048
+kälte;-0,0048
+kündigung;-0,0048
+kürzung;-0,3410
+langeweile;-0,0377
+langweiler;-0,0443
+last;-0,0048
+launenhaftigkeit;-0,0048
+lebensgefahr;-0,0048
+leblosigkeit;-0,0048
+leere;-0,0048
+leichtsinn;-0,3253
+leichtsinnsfehler;-0,0371
+leid;-0,5056
+leidende;-0,0048
+liquidation;-0,0048
+lähmung;-0,0048
+löschung;-0,0048
+lüge;-0,5000
+lügner;-0,4767
+makel;-0,1813
+mangel;-0,3669
+manipulation;-0,3455
+massaker;-0,0048
+maßlosigkeit;-0,0048
+melancholie;-0,1859
+melodrama;-0,0048
+merkwürdigkeit;-0,0048
+minderung;-0,0048
+minderwertigkeit;-0,3201
+missachtung;-0,0048
+missbrauch;-0,0048
+missgeschick;-0,0472
+missglück;-0,0048
+misstrauen;-0,4778
+misstrauensantrag;-0,0048
+missverständnis;-0,4756
+mist;-0,1732
+mittellosigkeit;-0,0048
+mittelmäßigkeit;-0,0048
+monotonie;-0,0048
+mord;-0,3595
+mutlosigkeit;-0,0048
+müdigkeit;-0,1995
+mühe;-0,0048
+müll;-0,3377
+nachlässigkeit;-0,0048
+nachteil;-0,8102
+naivität;-0,0048
+narr;-0,3350
+negativität;-0,3155
+neid;-0,4729
+nervosität;-0,1833
+neustart;-0,0504
+niedergang;-0,0048
+niedergeschlagenheit;-0,0048
+niederlage;-0,3651
+not;-0,2187
+notfall;-0,0468
+notstand;-0,0048
+nutzlosigkeit;-0,0048
+nötigung;-0,0048
+oberflächlichkeit;-0,3299
+offensive;-0,0048
+opposition;-0,3631
+panik;-0,3429
+panne;-0,1901
+pech;-0,4823
+pessimismus;-0,4715
+pest;-0,3456
+pflicht;-0,3577
+pleite;-0,3323
+preissturz;-0,0048
+problem;-0,3865
+propaganda;-0,4893
+protest;-0,3564
+provisorium;-0,0048
+provokation;-0,0048
+qual;-0,0402
+qualitätsminderung;-0,3096
+rache;-0,3534
+ratlosigkeit;-0,0048
+raub;-0,0048
+rebell;-0,0048
+rebellion;-0,0048
+rechtswidrigkeit;-0,0499
+redundanz;-0,0048
+reinfall;-0,0048
+reklamation;-0,0048
+reparatur;-0,0048
+revolte;-0,0048
+revolution;-0,0048
+rezession;-0,3454
+risiko;-0,6870
+rivale;-0,0502
+rivalität;-0,0048
+rost;-0,0048
+ruin;-0,0048
+rutsch;-0,0048
+rätselraten;-0,0048
+räuber;-0,3508
+rückfall;-0,0048
+rückgang;-0,2096
+rückschritt;-0,0048
+rücksendung;-0,3465
+rücksichtslosigkeit;-0,0048
+rückstand;-0,0630
+rückständigkeit;-0,0048
+rücktritt;-0,0048
+rückzug;-0,3501
+sabotage;-0,0048
+sackgasse;-0,3455
+schaden;-0,5299
+schadensbild;-0,0048
+scham;-0,4829
+schande;-0,0048
+scheidung;-0,2023
+scheitern;-0,3524
+schelte;-0,0048
+scheußlichkeit;-0,0048
+schlachtfeld;-0,0048
+schlag;-0,0048
+schlamperei;-0,0048
+schlechtigkeit;-0,4646
+schlitterbahn;-0,0048
+schlägerei;-0,0048
+schmerz;-0,0048
+schmuggel;-0,0048
+schmutz;-0,0542
+schock;-0,0048
+schramme;-0,0048
+schreck;-0,1940
+schrott;-0,0534
+schräglauf;-0,0048
+schubs;-0,0048
+schuld;-0,9686
+schuldner;-0,0048
+schuldnerin;-0,0048
+schurke;-0,3306
+schwierigkeit;-0,0483
+schwund;-0,0048
+schwäche;-0,5035
+schwächung;-0,3370
+schädigung;-0,0048
+senkung;-0,0545
+sinnlosigkeit;-0,0048
+sintflut;-0,3313
+skandal;-0,0048
+sklave;-0,3281
+sklavenarbeit;-0,0048
+sorge;-0,3618
+spott;-0,3357
+sprengstoff;-0,0048
+sprengung;-0,0048
+stagnation;-0,0048
+stau;-0,0438
+sterben;-0,0539
+steuerhinterziehung;-0,0048
+stilllegung;-0,0048
+stillstand;-0,0048
+stornierung;-0,0048
+stoß;-0,0048
+strafverfahren;-0,0048
+strapaze;-0,0048
+streik;-0,0048
+streit;-0,6632
+strenge;-0,0048
+stress;-0,0048
+sturheit;-0,1894
+sturz;-0,6316
+störung;-0,3569
+sucht;-0,3505
+sündenbock;-0,3285
+tabu;-0,0048
+terror;-0,0048
+terrorismus;-0,3553
+teuerung;-0,3220
+teuerungsrate;-0,0048
+teufelskreis;-0,4790
+tod;-0,0697
+todesfall;-0,0048
+todesstrafe;-0,0048
+torheit;-0,0048
+totschlag;-0,0048
+tragödie;-0,0048
+trauer;-0,0048
+trauma;-0,0048
+traurigkeit;-0,0457
+trennung;-0,5071
+tristesse;-0,0555
+trostlosigkeit;-0,0048
+trott;-0,0048
+trugschluß;-0,0048
+trugschluss;-0,0048
+trägheit;-0,1937
+träne;-0,0562
+trübsal;-0,1890
+turbulenz;-0,0048
+tyrannei;-0,3243
+täuschung;-0,3445
+umtausch;-0,3430
+unbehagen;-0,3291
+unbehaglichkeit;-0,0048
+unbeliebtheit;-0,0048
+unbequemlichkeit;-0,0048
+unbestimmtheit;-0,0537
+undankbarkeit;-0,0048
+unehrlichkeit;-0,0048
+uneinigkeit;-0,3289
+unerbittlichkeit;-0,0048
+unerträglichkeit;-0,0048
+unfall;-0,0048
+unfreundlichkeit;-0,3085
+unfug;-0,3394
+unfähigkeit;-0,1896
+ungeduld;-0,4655
+ungehorsamkeit;-0,0048
+ungenauigkeit;-0,0048
+ungerechtigkeit;-0,3419
+ungeschicklichkeit;-0,3116
+unglaubwürdigkeit;-0,0048
+ungleichheit;-0,0048
+unglück;-0,5004
+unheilbarkeit;-0,0048
+unhöflichkeit;-0,0048
+unklarheit;-0,0048
+unmenschlichkeit;-0,0048
+unmoral;-0,3172
+unmut;-0,3394
+unordnung;-0,3391
+unrecht;-0,5086
+unregelmäßigkeit;-0,0048
+unrentabilität;-0,0048
+unruhe;-0,2010
+unsicherheit;-0,3580
+unsinn;-0,4969
+unstetigkeit;-0,3075
+unstimmigkeit;-0,0048
+unterbrechung;-0,0048
+unterdrückung;-0,0048
+untergang;-0,3498
+unterlassung;-0,0048
+unterwerfung;-0,3279
+untreue;-0,3293
+unverantwortlichkeit;-0,3068
+unvereinbarkeit;-0,0048
+unverhältnismäßigkeit;-0,0048
+unverschämtheit;-0,0048
+unvollkommenheit;-0,0048
+unvollständigkeit;-0,0048
+unwahrheit;-0,4660
+unwirksamkeit;-0,0048
+unwirtschaftlichkeit;-0,0048
+unwissenheit;-0,4935
+unzufriedenheit;-0,6324
+unzumutbarkeit;-0,0048
+unzuverlässigkeit;-0,0048
+vagheit;-0,0048
+verachtung;-0,3308
+verbannung;-0,0048
+verbot;-0,0048
+verdacht;-0,8074
+verdorbenheit;-0,0048
+verdrängung;-0,0048
+verdächtige;-0,0048
+verfall;-0,0048
+verfehlung;-0,0048
+vergeltung;-0,3369
+vergeltungsmaßnahme;-0,0048
+vergeudung;-0,0048
+verherrlichung;-0,0048
+verhängnis;-0,0048
+verkleinerung;-0,0048
+verlangsamung;-0,0048
+verletzung;-0,5032
+verleumdung;-0,4792
+verlierer;-0,3441
+verlust;-0,5204
+vermeidung;-0,0048
+verminderung;-0,0048
+vernachlässigung;-0,3280
+vernichtung;-0,4883
+verrat;-0,0048
+verräter;-0,3352
+verrückter;-0,0447
+verrücktheit;-0,0048
+versagen;-0,3517
+verschlechterung;-0,4959
+verschmutzung;-0,3392
+verschwendung;-0,0048
+verschwörung;-0,3355
+versenkung;-0,0048
+versklavung;-0,0048
+verstoß;-0,0048
+verstrickung;-0,0048
+versuchung;-0,3463
+versäumnis;-0,0048
+vertreibung;-0,0048
+verurteilung;-0,0048
+verweigerung;-0,3441
+verwerfung;-0,3202
+verwirrung;-0,3323
+verwundung;-0,0048
+verwüstung;-0,0048
+verzerrung;-0,0048
+verzicht;-0,2022
+verzweiflung;-0,0048
+verzögerung;-0,0048
+vorurteil;-0,6261
+vorwand;-0,0048
+vorwurf;-0,5095
+wahnsinn;-0,0048
+wermutstropfen;-0,3356
+wertlosigkeit;-0,0048
+wertverlust;-0,0048
+wichtigtuer;-0,0048
+widernatürlichkeit;-0,0048
+widerruf;-0,0048
+widerspruch;-0,3655
+widrigkeit;-0,0048
+wirtschaftskrise;-0,0048
+wrack;-0,0048
+wunde;-0,3396
+wut;-0,4726
+wüste;-0,0048
+zahlungsunfähigkeit;-0,0048
+zeitverschwendung;-0,3223
+zensur;-0,3468
+zerrung;-0,0048
+zerschlagung;-0,0048
+zerstörung;-0,3578
+ziellosigkeit;-0,0048
+zoll;-0,0048
+zorn;-0,3537
+zumutung;-0,3286
+zusammenbruch;-0,0048
+zusammenstoß;-0,3302
+zwang;-0,0721
+zwangslage;-0,0048
+zwangsmaßnahme;-0,0048
+zweifel;-0,0048
+zwietracht;-0,0048
+abbauen;-0,0578
+abbrechen;-0,3482
+abdanken;-0,0048
+abdämpfen;-0,0048
+abfallen;-0,0048
+abfällig;-0,3197
+abführen;-0,3358
+abgebrochen;-0,0048
+abgedroschen;-0,1839
+abgestanden;-0,0368
+abgetakelt;-0,0048
+abgleiten;-0,0397
+abgründig;-0,1719
+abhängig;-0,0048
+ablaufen;-0,0048
+ablehnen;-0,6458
+ablenken;-0,0420
+abnehmen;-0,0292
+abnutzen;-0,0417
+abraten;-0,3353
+abreißen;-0,3116
+abrupt;-0,0048
+abrutschen;-0,0048
+abschaffen;-0,0048
+abschießen;-0,0048
+abschrecken;-0,1780
+abschreckend;-0,0490
+abschreiben;-0,1847
+abschwächen;-0,0048
+abschätzig;-0,0048
+absenken;-0,0048
+absinken;-0,3269
+abspalten;-0,3099
+absperren;-0,0048
+absteigen;-0,4776
+abstoßen;-0,1796
+abstoßend;-0,5859
+abstumpfen;-0,0048
+abstürzen;-0,4697
+absurd;-0,2120
+abtragen;-0,0048
+abweichen;-0,3422
+abweisen;-0,0048
+abwerten;-0,4521
+achtlos;-0,0048
+aggressiv;-0,4484
+alarmieren;-0,0048
+alkoholisiert;-0,0048
+alt;-0,0048
+altmodisch;-0,0382
+amateurhaft;-0,4485
+ambivalent;-0,4628
+androhen;-0,0048
+anfällig;-0,1884
+angespannt;-0,4744
+angestrengt;-0,0415
+angetrunken;-0,0048
+angreifen;-0,0464
+anklagen;-0,0048
+anmaßen;-0,0048
+annullieren;-0,3149
+anschießen;-0,0048
+anspannen;-0,0444
+anstrengen;-0,0048
+anstrengend;-0,0048
+anstößig;-0,0048
+antiquiert;-0,0048
+anzünden;-0,3333
+apathisch;-0,3252
+apokalyptisch;-0,0048
+arbeitslos;-0,3426
+archaisch;-0,0048
+arm;-0,4546
+armselig;-0,1814
+arrogant;-0,4659
+attackieren;-0,0048
+aufblasen;-0,0048
+aufblähen;-0,0048
+aufbringen;-0,0048
+auffallen;-0,3386
+aufgeben;-0,2098
+aufgebracht;-0,0048
+aufgeregt;-0,0048
+aufhören;-0,0142
+auflösen;-0,0412
+aufregen;-0,0048
+aufreibend;-0,0048
+aufrühren;-0,0256
+aufschlagen;-0,0400
+aufschreien;-0,0430
+aufwühlen;-0,0398
+ausbeuten;-0,3215
+ausbrechen;-0,1819
+auseinanderfallen;-0,0048
+auseinandersetzen;-0,0584
+ausfallen;-0,3481
+ausgehungert;-0,0048
+ausgestorben;-0,0389
+ausgleiten;-0,0048
+ausgrenzen;-0,0048
+ausradieren;-0,0048
+ausrotten;-0,0048
+ausschalten;-0,0048
+ausschließen;-0,4935
+aussetzen;-0,3413
+aussichtslos;-0,1830
+aussterben;-0,0048
+banal;-0,3166
+barbarisch;-0,3176
+beanstandet;-0,3330
+bedauerlich;-0,0551
+bedauern;-0,0574
+bedauernswert;-0,0048
+bedenklich;-0,7701
+bedeppert;-0,0048
+bedeutungslos;-0,6046
+bedrohen;-0,3408
+bedrohlich;-0,4726
+bedrängen;-0,0048
+bedrücken;-0,3123
+bedrückt;-0,0494
+bedürftig;-0,0048
+beeinträchtigen;-0,4979
+beenden;-0,0603
+befallen;-0,3340
+befangen;-0,3253
+befremdlich;-0,0048
+befürchten;-0,3602
+begrenzen;-0,0048
+begrenzt;-0,0048
+begriffsstutzig;-0,0048
+behindern;-0,7748
+behämmert;-0,0376
+beklagen;-0,4967
+beklagenswert;-0,0048
+bekloppt;-0,0048
+beknackt;-0,0358
+bekümmert;-0,4503
+belanglos;-0,3306
+belasten;-0,5078
+beleidigen;-0,6076
+beleidigend;-0,4636
+beleidigt;-0,4848
+belästigen;-0,0048
+berauben;-0,0048
+bergab;-0,0048
+bescheuert;-0,0048
+beschissen;-0,2947
+beschneiden;-0,3293
+beschruppt;-0,0048
+beschränken;-0,0048
+beschränkt;-0,0048
+beschuldigen;-0,3264
+beschweren;-0,0413
+beschwerlich;-0,0491
+beschädigen;-0,3350
+beschäftigungslos;-0,0048
+beschämen;-0,0048
+beseitigen;-0,0048
+besorgniserregend;-0,3281
+besorgt;-0,0482
+bestechen;-0,0048
+besteuern;-0,0048
+bestrafen;-0,4811
+bestürzt;-0,0048
+betrunken;-0,1720
+betrügen;-0,7430
+betrügerisch;-0,3163
+betäuben;-0,0048
+beunruhigen;-0,3221
+beunruhigend;-0,3264
+beunruhigt;-0,4795
+bevormunden;-0,0048
+bewegungslos;-0,0048
+beängstigend;-0,0367
+billig;-0,2842
+bitter;-0,3394
+bizarr;-0,0486
+blauäugig;-0,0445
+blind;-0,1978
+blockieren;-0,3459
+blutig;-0,0491
+blöd;-0,1593
+blöde;-0,3145
+bombardieren;-0,0048
+borniert;-0,0048
+boshaft;-0,3187
+brechen;-0,7991
+brennen;-0,0048
+brisant;-0,0048
+brutal;-0,0048
+brüchig;-0,3331
+bösartig;-0,4715
+böse;-0,4183
+chaotisch;-0,0426
+charakterschwach;-0,0048
+dahinschwinden;-0,0048
+debil;-0,3060
+defekt;-0,3460
+defizitär;-0,4535
+deformieren;-0,0048
+degradieren;-0,0048
+deinstallieren;-0,0048
+deinstalliert;-0,0048
+dekadent;-0,1769
+demütigen;-0,0048
+denkfaul;-0,0048
+depressiv;-0,4715
+desinteressiert;-0,0048
+desolat;-0,0048
+destruktiv;-0,1936
+dezimieren;-0,0048
+diffamieren;-0,0048
+diffizil;-0,0048
+diffus;-0,3310
+diktatorisch;-0,0048
+dilettantisch;-0,0048
+diskreditieren;-0,3230
+distanziert;-0,0048
+disziplinlos;-0,0048
+dominieren;-0,0048
+doof;-0,1562
+dramatisch;-0,3656
+drastisch;-0,3510
+dreckig;-0,0160
+dreist;-0,4457
+driften;-0,0048
+drohen;-0,3503
+drosseln;-0,0048
+drängelnd;-0,0048
+drängen;-0,3516
+dumm;-0,5901
+dunkel;-0,0214
+durchfallen;-0,1801
+dusselig;-0,0409
+dämlich;-0,0480
+dämpfen;-0,0411
+dürr;-0,0048
+düster;-0,0187
+egoistisch;-0,3254
+ehebrechen;-0,3128
+eigenartig;-0,0048
+einbehalten;-0,0048
+einbrechen;-0,0048
+einfältig;-0,1858
+eingehen;-0,0048
+eingeschränkt;-0,0048
+einsam;-0,1634
+einschlagen;-0,0048
+einschrumpfen;-0,0048
+einschränken;-0,3327
+einschüchtern;-0,0048
+einschüchternd;-0,0048
+einsinken;-0,0366
+einstellen;-0,0048
+einstürzen;-0,0048
+eintönig;-0,0378
+ekelerregend;-0,0413
+ekelig;-0,0048
+eklatant;-0,0048
+elend;-0,0519
+elendig;-0,0048
+empören;-0,0048
+energielos;-0,3037
+engstirnig;-0,3199
+entbehrungsreich;-0,0048
+entbinden;-0,0048
+entfremden;-0,0048
+entführen;-0,0048
+entgleiten;-0,0048
+enthaupten;-0,0048
+entkräften;-0,0048
+entlassen;-0,0048
+entmutigen;-0,0048
+entnervt;-0,0048
+entrüsten;-0,0048
+entschwinden;-0,1827
+entsetzlich;-0,4770
+enttäuschen;-0,0586
+enttäuschend;-0,0425
+enttäuscht;-0,3129
+entwürdigend;-0,3132
+entziehen;-0,0048
+erbittert;-0,0048
+erbost;-0,3293
+erbrechen;-0,3308
+erbärmlich;-0,4796
+erdrückend;-0,0048
+ergaunern;-0,0048
+ergebnislos;-0,0048
+erleiden;-0,3494
+erliegen;-0,3296
+ermahnen;-0,0048
+ermorden;-0,3292
+ermüden;-0,0048
+erniedrigen;-0,0048
+ernüchternd;-0,0048
+erpressen;-0,0048
+erschießen;-0,3317
+erschlaffen;-0,0048
+erschlagen;-0,3442
+erschrecken;-0,1812
+erschreckend;-0,0544
+erschweren;-0,4891
+erschöpfen;-0,0048
+erschöpft;-0,0377
+erschüttern;-0,0048
+erschütternd;-0,0472
+erschüttert;-0,0048
+erstechen;-0,3078
+ersticken;-0,3291
+ertrinken;-0,0048
+erwürgen;-0,0048
+erzürnt;-0,3221
+existenzbedrohend;-0,0048
+explodieren;-0,0048
+fad;-0,0048
+fadenscheinig;-0,0048
+fahrlässig;-0,3487
+fallen;-0,2153
+falsch;-0,7618
+farblos;-0,0048
+faschistisch;-0,4477
+fatal;-0,3450
+faul;-0,0350
+fehlen;-0,5365
+fehleranfällig;-0,0048
+fehlerhaft;-0,3581
+feige;-0,4649
+feindlich;-0,4723
+feindselig;-0,4579
+fesseln;-0,0048
+feuern;-0,0048
+fies;-0,3050
+finster;-0,0515
+flach;-0,0048
+flau;-0,0048
+flüchtend;-0,0048
+flüchtig;-0,0048
+folgenschwer;-0,0048
+folgewidrig;-0,0048
+fragil;-0,0422
+fraglich;-0,0576
+fragwürdig;-0,4858
+frech;-0,0048
+fremd;-0,4939
+fremdartig;-0,0419
+freudlos;-0,0048
+frivol;-0,0412
+fruchtlos;-0,0048
+frustrieren;-0,0372
+frustrierend;-0,0048
+frustriert;-0,3244
+fuchsteufelswild;-0,0048
+furchtbar;-0,3042
+furchterregend;-0,1778
+fälschen;-0,0048
+fürchten;-0,3545
+fürchterlich;-0,3363
+gallig;-0,3005
+gammelig;-0,0344
+gammeln;-0,0411
+gammlig;-0,0048
+garstig;-0,0425
+geblitzt;-0,0435
+gebrechlich;-0,0048
+gedankenlos;-0,0048
+gedrängt;-0,0048
+gefährden;-0,5006
+gefährlich;-0,6366
+gehandicapt;-0,0048
+gehässig;-0,1821
+geisteskrank;-0,0048
+geistlos;-0,0048
+gekränkt;-0,4530
+gelähmt;-0,3308
+gemein;-0,7203
+genervt;-0,0237
+gering;-0,6621
+geringwertig;-0,0048
+geschmacklos;-0,3212
+gestresst;-0,3128
+gewaltsam;-0,0048
+gewalttätig;-0,3409
+geärgert;-0,1846
+giftig;-0,3378
+glanzlos;-0,3133
+gleichgültig;-0,3436
+glücklos;-0,3147
+gnadenlos;-0,6033
+grau;-0,3360
+grauen;-0,0048
+grauenhaft;-0,1840
+grauenvoll;-0,3238
+grausam;-0,6250
+grausig;-0,1777
+grenzdebil;-0,0048
+grimmig;-0,3295
+grob;-0,3495
+groggy;-0,0048
+grotesk;-0,3318
+grottenschlecht;-0,3089
+grottenübel;-0,0048
+gruselig;-0,0048
+grässlich;-0,0395
+gräßlich;-0,4529
+haarig;-0,0351
+haarsträubend;-0,4637
+habgierig;-0,3059
+halbfertig;-0,0048
+happig;-0,0256
+harsch;-0,0048
+hart;-0,1483
+hartnäckig;-0,1956
+hassen;-0,0540
+heftig;-0,1819
+heikel;-0,0048
+heillos;-0,0048
+heimsuchen;-0,3228
+heimtückisch;-0,3241
+heimzahlen;-0,0371
+hektisch;-0,0396
+hemmen;-0,1953
+herabsetzen;-0,3199
+herausfordern;-0,0048
+herrisch;-0,0426
+herunter;-0,0048
+heruntermachen;-0,0048
+herzlos;-0,3157
+heucheln;-0,0048
+heuchlerisch;-0,4544
+hilflos;-0,4827
+hinfällig;-0,3336
+hinterlistig;-0,3187
+hochtrabend;-0,3086
+hoffnungslos;-0,3412
+hungern;-0,0565
+hungrig;-0,0048
+hysterisch;-0,0465
+hämisch;-0,3198
+hässlich;-0,4387
+häßlich;-0,4387
+höhnisch;-0,0525
+idiotisch;-0,0048
+illegal;-0,3479
+illoyal;-0,0048
+immobil;-0,0048
+ineffizient;-0,4602
+infiltrieren;-0,0048
+inkompetent;-0,5935
+inkonsequent;-0,1844
+inkonsistent;-0,0048
+inkorrekt;-0,3167
+instabil;-0,3352
+intervenieren;-0,0048
+intolerant;-0,3215
+irrational;-0,3277
+irre;-0,0048
+irrsinnig;-0,0048
+isolieren;-0,0388
+jammern;-0,0504
+jähzornig;-0,3089
+kacken;-0,1710
+kahl;-0,0472
+kalt;-0,0120
+kaltherzig;-0,0048
+kapitulieren;-0,0048
+kaputt;-0,1513
+katastrophal;-0,4917
+keimig;-0,0048
+kentern;-0,0048
+kippen;-0,1814
+klagen;-0,3565
+klein;-0,2715
+klobig;-0,0373
+knapp;-0,2036
+knurrig;-0,0048
+kollabieren;-0,0048
+kollidieren;-0,0048
+kompliziert;-0,0384
+konfrontieren;-0,0048
+konkurrieren;-0,0048
+kontraproduktiv;-0,6272
+kontrovers;-0,3395
+korrupt;-0,4615
+kostenintensiv;-0,0048
+kostspielig;-0,0048
+krachen;-0,0048
+kraftlos;-0,3338
+krank;-0,4694
+kranken;-0,0048
+krass;-0,1603
+kriechen;-0,0048
+kriegerisch;-0,0048
+kriminell;-0,4692
+kritisch;-0,2030
+kritisieren;-0,3466
+krude;-0,0048
+krumm;-0,0426
+kränkeln;-0,0048
+kränken;-0,0048
+kränklich;-0,3172
+kurz;-0,0048
+kurzsichtig;-0,4714
+kämpfen;-0,3467
+kümmerlich;-0,3208
+kündigen;-0,4947
+kürzen;-0,3439
+labil;-0,3260
+laienhaft;-0,3169
+lakonisch;-0,0048
+langatmig;-0,0048
+langsam;-0,0167
+langweilen;-0,0512
+langweilig;-0,0228
+lasch;-0,0048
+launisch;-0,0409
+lebensfeindlich;-0,0048
+lebensgefährlich;-0,0048
+leblos;-0,0490
+leer;-0,0250
+leichtgläubig;-0,0048
+leichtsinnig;-0,0048
+leiden;-0,1596
+leider;-0,4787
+leistungsunfähig;-0,0048
+leugnen;-0,4862
+lieblos;-0,4697
+liquidieren;-0,0048
+loswerden;-0,0048
+lächerlich;-0,6435
+lädiert;-0,0366
+lähmen;-0,0048
+läppisch;-0,0048
+lästig;-0,1751
+löschen;-0,3654
+lückenhaft;-0,4805
+machtlos;-0,3351
+mager;-0,0048
+magern;-0,0048
+makelhaft;-0,0048
+mangelbehaftet;-0,0048
+mangelhaft;-0,3395
+mangeln;-0,0048
+manipulieren;-0,0048
+matt;-0,0048
+mau;-0,1914
+maßlos;-0,1965
+meckern;-0,0310
+meiden;-0,3320
+melancholisch;-0,0048
+melodramatisch;-0,0048
+menschenunwürdig;-0,3144
+merkwürdig;-0,0431
+mies;-0,0048
+miesepetrig;-0,0048
+mindern;-0,0570
+minderwertig;-0,6130
+miserabel;-0,2004
+missachten;-0,0048
+mißachten;-0,0048
+missbrauchen;-0,0048
+mißbrauchen;-0,0048
+missfallen;-0,0048
+mißfallen;-0,0048
+missgelaunt;-0,2970
+missglücken;-0,0048
+mißglücken;-0,0048
+misslingen;-0,0048
+mißlingen;-0,0048
+missmutig;-0,3166
+mißmutig;-0,3166
+missraten;-0,0048
+misstrauisch;-0,3333
+missverstehen;-0,3202
+misten;-0,1723
+mittellos;-0,0048
+mittelmäßig;-0,1871
+monoton;-0,0533
+morbid;-0,0048
+morden;-0,0048
+murren;-0,0496
+mutlos;-0,0048
+mörderisch;-0,0384
+müde;-0,0048
+mühsam;-0,3336
+mürrisch;-0,4658
+nachlassen;-0,0048
+nachlässig;-0,3307
+nachteilig;-0,3357
+naiv;-0,0675
+negativ;-0,4949
+neidisch;-0,0048
+nerven;-0,1374
+nervenaufreibend;-0,0376
+nervig;-0,0048
+nervös;-0,0042
+neutralisieren;-0,1892
+niedergeschlagen;-0,4708
+niedergleitend;-0,0048
+niederschlagen;-0,1871
+niederschmetternd;-0,0436
+niederträchtig;-0,4500
+niedrig;-0,3623
+nutzlos;-0,4850
+närrisch;-0,0443
+nörgeln;-0,1789
+nötigen;-0,0048
+oberflächlich;-0,1794
+ominös;-0,0048
+ordnungswidrig;-0,1710
+panisch;-0,0048
+peinlich;-0,0048
+pessimistisch;-0,3359
+pflichtwidrig;-0,0048
+pikiert;-0,0048
+planlos;-0,1869
+prekär;-0,3272
+primitiv;-0,7475
+problematisch;-0,3524
+profan;-0,0048
+protestieren;-0,0048
+provisorisch;-0,0048
+provozieren;-0,3369
+prügeln;-0,0507
+qualvoll;-0,0048
+quälen;-0,1929
+rabiat;-0,0402
+radikal;-0,4870
+rammen;-0,0048
+ramponieren;-0,0048
+rasend;-0,0048
+rauh;-0,0286
+rausgeschmissen;-0,1863
+rebellisch;-0,1706
+rechthaberisch;-0,0048
+rechtswidrig;-0,3406
+reduzieren;-0,0048
+renitent;-0,0048
+repetiv;-0,0048
+riskant;-0,0482
+riskieren;-0,3328
+rosten;-0,0048
+ruchlos;-0,0370
+ruckeln;-0,0387
+ruinös;-0,0048
+ruppig;-0,0048
+rutschen;-0,0048
+rächen;-0,3489
+rückläufig;-0,0544
+rücksichtslos;-0,4754
+rückständig;-0,0048
+rückwärts;-0,3496
+rüde;-0,0048
+sabotieren;-0,0048
+sauer;-0,0048
+schade;-0,0048
+schadhaft;-0,0048
+schal;-0,0048
+schamlos;-0,3332
+schauerlich;-0,0048
+schaurig;-0,0048
+scheiden;-0,0557
+scheiss;-0,1838
+scheisse;-0,0226
+scheiß;-0,3381
+scheiße;-0,2945
+schelten;-0,3143
+scheusslich;-0,0048
+scheußlich;-0,1834
+schimmelig;-0,3040
+schimmlig;-0,3040
+schimpfend;-0,0048
+schlaff;-0,0472
+schlagen;-0,0306
+schlapp;-0,0048
+schlecht;-0,7706
+schleppend;-0,0048
+schlicht;-0,6230
+schließen;-0,2110
+schlimm;-0,1705
+schlimmer;-0,6494
+schlotterig;-0,0048
+schlottern;-0,0048
+schmerzen;-0,3251
+schmerzerfüllt;-0,0048
+schmerzhaft;-0,3182
+schmerzlich;-0,0516
+schmerzvoll;-0,0428
+schmuggeln;-0,0048
+schmutzig;-0,2984
+schocken;-0,0396
+schockierend;-0,1933
+schonungslos;-0,4610
+schrecklich;-0,0242
+schrumpfen;-0,0048
+schubsen;-0,1756
+schuftig;-0,0048
+schulden;-0,0048
+schuldhaft;-0,3346
+schuldig;-0,7968
+schwach;-0,9206
+schwer;-0,0048
+schwerfällig;-0,0048
+schwerwiegend;-0,0048
+schwierig;-0,0245
+schwinden;-0,0048
+schwindlig;-0,0512
+schwächen;-0,3372
+schwächlich;-0,3167
+schäbig;-0,0421
+schädigend;-0,1779
+schädigen;-0,3284
+schädlich;-0,9269
+schämen;-0,8930
+seicht;-0,1742
+seltsam;-0,0048
+senken;-0,0596
+sinken;-0,2064
+sinnlos;-0,6331
+skandalös;-0,0048
+skeptisch;-0,1985
+skrupellos;-0,1814
+sorgen;-0,0048
+sorgenschwer;-0,0048
+sprengen;-0,0048
+spröde;-0,0380
+stagnieren;-0,0048
+starr;-0,0048
+statisch;-0,0048
+stehlen;-0,4944
+stilllegen;-0,0048
+stillstehen;-0,0048
+stinken;-0,1634
+stocken;-0,0048
+stornieren;-0,0048
+stottern;-0,0435
+stoßen;-0,3563
+strafbar;-0,3468
+streiken;-0,0440
+streiten;-0,0302
+streng;-0,3571
+strittig;-0,3249
+stumpfsinnig;-0,0048
+stupide;-0,0048
+stur;-0,1837
+stören;-0,3330
+stümperhaft;-0,0048
+stürmisch;-0,0048
+stürzen;-0,1975
+suboptimal;-0,0048
+tadeln;-0,3234
+tadelnswert;-0,0048
+tatenlos;-0,0048
+terrorisieren;-0,0048
+teuer;-0,2716
+teuflisch;-0,1677
+tot;-0,1683
+totalitär;-0,0048
+tragisch;-0,1847
+trauern;-0,1945
+traumatisch;-0,0048
+traumatisieren;-0,0048
+traurig;-0,1266
+trennen;-0,5033
+trist;-0,0424
+trostlos;-0,0467
+trottelig;-0,0048
+trotten;-0,0048
+trotzen;-0,0048
+träge;-0,3272
+trüb;-0,0048
+trügerisch;-0,1874
+turbulent;-0,0048
+tyrannisch;-0,0048
+täuschen;-0,6192
+tödlich;-0,3487
+töricht;-0,4710
+töten;-0,5203
+umgetauscht;-0,0048
+umstritten;-0,0048
+umständlich;-0,3487
+umtauschen;-0,0048
+umweltschädlich;-0,0048
+unachtsam;-0,4488
+unangemessen;-0,4883
+unangenehm;-0,4691
+unanständig;-0,0441
+unattraktiv;-0,4656
+unaufgefordert;-0,0048
+unaufhörlich;-0,0048
+unaufrichtig;-0,3091
+unbarmherzig;-0,3257
+unbedacht;-0,0510
+unbedeutend;-0,6134
+unbefriedigend;-0,3343
+unbefriedigt;-0,3190
+unbefugt;-0,0048
+unbegründet;-0,4923
+unbeliebt;-0,3266
+unbequem;-0,0237
+unberechtigt;-0,3393
+unbestimmt;-0,3322
+unbewiesen;-0,3113
+unbotmäßig;-0,0048
+unbrauchbar;-0,4727
+undankbar;-0,3156
+undemokratisch;-0,3259
+undiplomatisch;-0,0048
+undiszipliniert;-0,0048
+undurchführbar;-0,0048
+undurchsichtig;-0,3279
+unehrlich;-0,3270
+uneinig;-0,0048
+uneinsichtig;-0,0048
+unerbittlich;-0,3318
+unerfreulich;-0,0453
+unerhört;-0,0048
+unerklärlich;-0,0048
+unerlaubt;-0,0048
+unerquicklich;-0,0048
+unerträglich;-0,3454
+unerwartet;-0,0349
+unerwiesen;-0,0048
+unerwünscht;-0,3413
+unfair;-0,8827
+unfein;-0,0048
+unfreiwillig;-0,3382
+unfreundlich;-0,3407
+unfähig;-0,4787
+ungebeten;-0,0048
+ungebührlich;-0,0048
+ungedeckt;-0,0048
+ungeduldig;-0,0405
+ungeeignet;-0,6394
+ungeheuer;-0,0048
+ungeheuerlich;-0,0048
+ungehobelt;-0,0048
+ungehorsam;-0,3176
+ungeliebt;-0,4532
+ungemütlich;-0,0313
+ungenau;-0,4970
+ungeordnet;-0,0048
+ungerecht;-0,7844
+ungerechtfertigt;-0,4701
+ungeschickt;-0,6087
+ungeschminkt;-0,0048
+ungesetzlich;-0,0048
+ungesund;-0,1793
+ungewohnt;-0,0243
+ungewollt;-0,4781
+ungezogen;-0,3124
+ungeübt;-0,0048
+unglaubwürdig;-0,2007
+ungleich;-0,0048
+unglücklich;-0,3010
+ungültig;-0,3485
+ungünstig;-0,7670
+unheilbar;-0,0048
+unheilvoll;-0,0048
+unhöflich;-0,0048
+uninformiert;-0,0048
+unklar;-0,5023
+unklug;-0,4604
+unkorrekt;-0,3247
+unkritisch;-0,1934
+unlauter;-0,0048
+unliebsam;-0,0048
+unlogisch;-0,4817
+unmenschlich;-0,4724
+unmoralisch;-0,6224
+unmöglich;-0,3559
+unnötig;-0,9463
+unnütz;-0,6073
+unpassend;-0,3261
+unpersönlich;-0,0476
+unpopulär;-0,0048
+unpraktisch;-0,3182
+unqualifiziert;-0,3153
+unredlich;-0,3248
+unregelmäßig;-0,0048
+unrentabel;-0,0048
+unruhig;-0,0551
+unrühmlich;-0,0048
+unsachgemäß;-0,3271
+unsauber;-0,4713
+unscharf;-0,3270
+unschön;-0,4486
+unselig;-0,0048
+unseriös;-0,3373
+unsicher;-0,6268
+unsinnig;-0,3516
+unsittlich;-0,0048
+unsolidarisch;-0,0048
+unsolid;-0,0048
+unsozial;-0,4614
+unsportlich;-0,3200
+unstetig;-0,0048
+unsäglich;-0,1834
+untauglich;-0,5944
+unten;-0,3334
+unterbelichten;-0,0426
+unterbrechen;-0,0048
+unterdrücken;-0,4825
+unterentwickelt;-0,3245
+untergehen;-0,0048
+untergraben;-0,0048
+unterirdisch;-0,4715
+unterlassen;-0,3488
+unterlaufen;-0,3438
+unterliegen;-0,0048
+unterstellen;-0,4961
+unterwerfen;-0,3393
+unterwürfig;-0,0533
+untragbar;-0,3247
+untreu;-0,3222
+untröstlich;-0,3139
+unverantwortlich;-0,4889
+unverantwortliche;-0,3242
+unverbesserlich;-0,4363
+unvereinbar;-0,0048
+unverhältnismäßig;-0,0048
+unverlangt;-0,0048
+unvermeidlich;-0,0048
+unvernünftig;-0,3252
+unverständlich;-0,6347
+unvollkommen;-0,4772
+unvollständig;-0,4926
+unvorhergesehen;-0,3141
+unwahr;-0,3424
+unwichtig;-0,3433
+unwillig;-0,4665
+unwirksam;-0,0048
+unwirtlich;-0,0048
+unwirtschaftlich;-0,0048
+unwissend;-0,3260
+unwürdig;-0,7312
+unzivilisiert;-0,4413
+unzufrieden;-0,3363
+unzulässig;-0,3554
+unzumutbar;-0,3400
+unzurechnungsfähig;-0,0048
+unzureichend;-0,5233
+unzusammenhängend;-0,0048
+unzuverlässig;-0,6120
+unzüchtig;-0,0048
+unübersichtlich;-0,0501
+unüblich;-0,3328
+vage;-0,3406
+verabscheuungswürdig;-0,0048
+verachten;-0,0048
+veraltet;-0,5070
+verarschen;-0,0048
+verbannen;-0,0048
+verbeulen;-0,0327
+verbieten;-0,6290
+verbittert;-0,4659
+verblassen;-0,0048
+verboten;-0,3657
+verdammen;-0,6079
+verdammt;-0,2925
+verdecken;-0,0516
+verderben;-0,0048
+verderblich;-0,3131
+verdorben;-0,1755
+verdrießlich;-0,0048
+verdrängen;-0,3468
+verdunkeln;-0,0048
+vereiteln;-0,0048
+verfallen;-0,4849
+verfassungswidrig;-0,0048
+verfehlen;-0,0373
+verfluchen;-0,3284
+verfälschen;-0,3323
+vergammelt;-0,0048
+vergeblich;-0,0048
+vergelten;-0,0048
+vergeuden;-0,1836
+vergewaltigen;-0,0048
+verharmlosen;-0,0490
+verhasst;-0,0048
+verheeren;-0,0048
+verheerend;-0,4780
+verherrlichen;-0,0048
+verhängnisvoll;-0,3330
+verhöhnen;-0,0048
+verirren;-0,0498
+verkehrswidrig;-0,0048
+verkleinern;-0,0048
+verkrüppeln;-0,0048
+verlangsamen;-0,0048
+verletzbar;-0,0048
+verletzen;-0,3615
+verletzlich;-0,0487
+verletzt;-0,5202
+verleumden;-0,4473
+verlieren;-0,3930
+verlogen;-0,3355
+vermeiden;-0,5265
+vermindern;-0,0048
+vernichten;-0,4902
+vernichtend;-0,0048
+verraten;-0,2087
+verringern;-0,3537
+verrucht;-0,1714
+verräterisch;-0,3110
+verrückt;-0,0337
+verschimmelt;-0,0048
+verschlechtern;-0,0048
+verschleppen;-0,0048
+verschleudern;-0,0048
+verschlingen;-0,0048
+verschmutzen;-0,0048
+verschwenden;-0,0494
+verschwenderisch;-0,0048
+verschwinden;-0,3588
+versenken;-0,0048
+versklaven;-0,3142
+versklavt;-0,0048
+verspielen;-0,0048
+verspätet;-0,4819
+verstimmen;-0,0048
+verstopfen;-0,0048
+verstoßen;-0,3521
+verstricken;-0,0048
+vertreiben;-0,3684
+verurteilen;-0,7700
+verwelken;-0,0048
+verwerflich;-0,7418
+verwickeln;-0,0048
+verwirren;-0,0474
+verworren;-0,0048
+verwunden;-0,3186
+verwüsten;-0,0048
+verzerren;-0,0048
+verzichten;-0,0048
+verzweifeln;-0,0048
+verzweifelt;-0,1947
+verzwickt;-0,0403
+verzögern;-0,3409
+verächtlich;-0,3245
+verängstigen;-0,0560
+verärgern;-0,1825
+volltrunken;-0,0048
+vorhersehbar;-0,3414
+vorwerfen;-0,3254
+vorzeitig;-0,3462
+vulgär;-0,3122
+wackelig;-0,0048
+wackeln;-0,0048
+wahnsinnig;-0,0048
+wankelmütig;-0,0048
+wegfallen;-0,0048
+weglassen;-0,3362
+wehklagend;-0,0048
+weinen;-0,1651
+welken;-0,0531
+wertlos;-0,6264
+wettbewerbswidrig;-0,0048
+wichtigtun;-0,0048
+widerlegen;-0,3452
+widernatürlich;-0,3064
+widerrufen;-0,0048
+widersinnig;-0,3266
+widerspenstig;-0,1789
+widersprechen;-0,3540
+widersprüchlich;-0,2043
+widerwärtig;-0,0048
+widrig;-0,0048
+willkürlich;-0,3481
+wirkungslos;-0,0048
+wirr;-0,1841
+wutentbrannt;-0,3138
+wutschäumend;-0,0048
+würgen;-0,0048
+wüten;-0,0048
+wütend;-0,3233
+zahlungsunfähig;-0,0048
+zappeln;-0,0048
+zaudern;-0,0048
+zensieren;-0,3150
+zerbrechen;-0,0522
+zerfressen;-0,0048
+zerren;-0,0048
+zerrissen;-0,4776
+zerschlagen;-0,0048
+zerschmettern;-0,0048
+zerschunden;-0,0048
+zersetzen;-0,0048
+zersetzend;-0,0048
+zerstreuen;-0,0048
+zerstören;-0,5131
+zerstörerisch;-0,4715
+zerstört;-0,5030
+ziellos;-0,3305
+zittern;-0,0048
+zornig;-0,1853
+zurückbleiben;-0,1831
+zurückgeben;-0,0619
+zurückgegeben;-0,3502
+zurückgehen;-0,0048
+zurückgeschickt;-0,3377
+zurückhalten;-0,0048
+zurückschicken;-0,3310
+zusammenbrechen;-0,3317
+zusammenhanglos;-0,0048
+zusammenrechen;-0,0048
+zusammenschlagen;-0,0395
+zusammenstoßen;-0,0048
+zwecklos;-0,0048
+zweideutig;-0,3174
+zweifelhaft;-0,3455
+zweifeln;-0,1935
+zweitklassig;-0,1725
+zwiespältig;-0,0048
+zwieträchtig;-0,0048
+zwingen;-0,4975
+zögern;-0,0048
+züchtigen;-0,0048
+ärger;-0,3465
+ärgernis;-0,3357
+übel;-0,4895
+überfüllung;-0,0048
+übergewicht;-0,2011
+überhöhung;-0,0048
+überlastung;-0,0048
+übermaß;-0,3337
+überschreitung;-0,0048
+überschuß;-0,1924
+überschwemmung;-0,0048
+übertreibung;-0,0424
+ängstigen;-0,3193
+ängstlich;-0,4735
+ärgerlich;-0,3111
+ärgern;-0,0048
+öde;-0,4570
+übellaunig;-0,0048
+überfallen;-0,3457
+überfluten;-0,0048
+überflüssig;-0,5154
+übergewichtig;-0,3215
+überhöhen;-0,0048
+überlasten;-0,3413
+übermäßig;-0,1844
+überschreiten;-0,0048
+überschwemmen;-0,0048
+übersehen;-0,5128
+übertreiben;-0,0372
+übertreten;-0,3290
+übertrieben;-0,3203
+überwältigen;-0,0048
