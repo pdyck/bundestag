@@ -9,8 +9,6 @@ protocols <- list.files("./raw", "*-data.xml") %>%
 
 # Data Preparation
 
-## Bundestag sessions
-
 bundestag.sessions <- protocols %>%
   map_df(~data.frame(
     term = xml_attr(., "wahlperiode"),
@@ -21,8 +19,6 @@ bundestag.sessions <- protocols %>%
   bind_rows() %>%
   unite(session_id, term:session_number) %>%
   select(session_id, date)
-
-## Bundestag speakers
 
 bundestag.speakers <- protocols %>%
   map(~xml_find_all(., ".//rednerliste/redner")) %>%
@@ -40,3 +36,38 @@ bundestag.speakers <- protocols %>%
   bind_rows() %>%
   distinct(speaker_id, .keep_all = TRUE)
 
+bundestag.speeches <- protocols %>%
+  map(~xml_find_all(., ".//sitzungsverlauf/tagesordnungspunkt/rede")) %>%
+  flatten() %>%
+  map_df(~data.frame(
+    speech_id = xml_attr(., "id"),
+    speaker_id = xml_find_first(., "p/redner") %>% xml_attr("id"),
+    term = xml_root(.) %>% xml_attr("wahlperiode"),
+    session_number = xml_root(.) %>% xml_attr("sitzung-nr"),
+    stringsAsFactors = FALSE
+  )) %>%
+  bind_rows() %>%
+  unite(session_id, term:session_number) %>%
+  select(session_id, speech_id, speaker_id)
+
+bundestag.utterances <- protocols %>%
+  map(~xml_find_all(., ".//sitzungsverlauf/tagesordnungspunkt/rede")) %>%
+  flatten() %>%
+  map(~xml_find_all(., "p")) %>%
+  flatten() %>%
+  map_df(~data.frame(
+    speech_id = xml_parent(.) %>% xml_attr("id"),
+    attr_klasse = xml_attr(., "klasse"),
+    utterance = xml_text(.),
+    stringsAsFactors = FALSE
+  )) %>%
+  bind_rows() %>%
+  filter(attr_klasse %in% c("J", "J_1", "O")) %>%
+  select(speech_id, utterance)
+
+# Data Export
+
+write_csv2(bundestag.sessions, "./data/sessions.csv")
+write_csv2(bundestag.speakers, "./data/speakers.csv")
+write_csv2(bundestag.speeches, "./data/speeches.csv")
+write_csv2(bundestag.utterances, "./data/utterances.csv")
