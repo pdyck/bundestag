@@ -144,3 +144,84 @@ speaker_sentiments %>%
   ylab("Anzahl MdB") +
   scale_fill_manual("Fraktionen", values = colors, na.value = "grey") +
   facet_wrap(~group)
+
+# ---
+
+tokens %>%
+  distinct(token, sentiment) %>%
+  arrange(sentiment)
+
+tokens %>%
+  count(token, sentiment) %>%
+  filter(is.na(sentiment)) %>%
+  arrange(desc(n))
+
+# ---
+
+tf_idf_sessions <- tokens %>%
+  count(session_id, token, sort = TRUE) %>%
+  bind_tf_idf(token, session_id, n) %>%
+  group_by(session_id) %>%
+  top_n(10, tf_idf) %>%
+  left_join(sessions, "session_id") %>%
+  mutate(date = as.Date(date))
+
+tf_idf_sessions %>%
+  filter(session_id %in% c("19_154", "19_155", "19_156", "19_157", "19_158", "19_159", "19_160", "19_161", "19_162", "19_163", "19_164")) %>%
+  ggplot(aes(x = reorder(token, tf_idf), y = tf_idf)) +
+  geom_bar(stat = "identity") +
+  coord_flip() +
+  facet_wrap(~date, scales = "free") +
+  ggtitle("Top Themen der letzten Wochen") +
+  xlab("Tf-idf-Maß") +
+  ylab("Token")
+
+# ---
+
+tf_idf_sessions_top_25 <- tf_idf_sessions %>%
+  ungroup() %>%
+  count(token) %>%
+  arrange(desc(n)) %>%
+  top_n(5, n) %>%
+  pull(token)
+
+tf_idf_sessions %>%
+  filter(token %in% tf_idf_sessions_top_25) %>%
+  ggplot(aes(x = date, y = tf_idf, group = token, fill = token)) +
+  geom_line()
+
+# ---
+
+bigrams <- speakers %>%
+  left_join(speeches, "speaker_id") %>%
+  left_join(sessions, "session_id") %>%
+  left_join(utterances, "speech_id") %>%
+  unnest_tokens(bigram, utterance, token = "ngrams", n = 2) %>%
+  separate(bigram, c("word1", "word2"), sep = " ") %>%
+  filter(str_detect(word1, "[a-z]")) %>%
+  filter(str_detect(word2, "[a-z]")) %>%
+  filter(!word1 %in% stopwords$token) %>%
+  filter(!word2 %in% stopwords$token) %>%
+  unite(bigram, word1, word2, sep = " ") %>%
+  select(session_id, group, speaker_id, speech_id, bigram)
+
+bigram_tf_idf_sessions <- bigrams %>%
+  count(session_id, bigram, sort = TRUE) %>%
+  bind_tf_idf(bigram, session_id, n) %>%
+  group_by(session_id) %>%
+  top_n(10, tf_idf) %>%
+  left_join(sessions, "session_id") %>%
+  mutate(date = as.Date(date))
+
+# ---
+
+tokens %>%
+  filter(token %in% c("klimakrise", "coronakrise", "hongkong", "mali", "organspende", "eu")) %>%
+  group_by(session_id) %>%
+  count(token) %>%
+  left_join(sessions, "session_id") %>%
+  select(date, count = n, token) %>%
+  ggplot(aes(x = date, y = count)) +
+    geom_point() +
+    geom_smooth() +
+    facet_wrap(~ token, scales = "free_y")
