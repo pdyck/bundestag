@@ -1,4 +1,5 @@
 library(tidyverse)
+library(lubridate)
 library(tidytext)
 library(lsa)
 
@@ -34,12 +35,20 @@ speakers %>%
   left_join(speakers, by = "speaker_id") %>%
   select(firstname, lastname, group, number_of_speeches = n) %>%
   top_n(10, wt = number_of_speeches) %>%
-  ggplot(aes(x = reorder(lastname, -number_of_speeches), y = number_of_speeches, fill = lastname)) +
+  ggplot(aes(x = reorder(lastname, -number_of_speeches), y = number_of_speeches)) +
     geom_bar(stat = "identity") +
-    ggtitle("Anzahl Reden pro Redner (Top 10)") +
+    ggtitle("Wer hält die meisten Reden?") +
     xlab("Redner") +
     ylab("Anzahl Reden")
 
+speakers %>%
+  left_join(speeches, by = "speaker_id") %>%
+  count(speaker_id) %>%
+  left_join(speakers, by = "speaker_id") %>%
+  select(firstname, lastname, group, number_of_speeches = n) %>%
+  ggplot(aes(number_of_speeches)) +
+  geom_histogram(bins = 60, show.legend = FALSE)
+  
 # ---
 
 speakers %>%
@@ -49,7 +58,7 @@ speakers %>%
   top_n(10, wt = number_of_speeches) %>%
   ggplot(aes(x = reorder(group, -number_of_speeches), y = number_of_speeches, fill = group)) +
     geom_bar(stat = "identity") +
-    ggtitle("Anzahl Reden pro Fraktion") +
+    ggtitle("In welcher Fraktion werden die meisten Reden gehalten?") +
     xlab("Fraktion") +
     ylab("Anzahl Reden") +
     scale_fill_manual("Fraktionen", values = colors,  na.value = "grey")
@@ -69,9 +78,9 @@ speeches_per_speaker <- left_join(speeches_per_speaker.speeches, speeches_per_sp
 speeches_per_speaker %>%
   ggplot(aes(reorder(group, -ratio), ratio, fill = group)) +
     geom_bar(stat = "identity") +
-    ggtitle("Durchschnittliche Anzahl Reden pro MdB nach Fraktion") +
+    ggtitle("In welcher Fraktion werden die meisten Reden pro Mitglied gehalten?") +
     xlab("Fraktion") +
-    ylab("Durschnittliche Anzahl Reden") +
+    ylab("Anzahl Reden") +
     scale_fill_manual("Fraktionen", values = colors, na.value = "grey")
 
 # ---
@@ -105,7 +114,7 @@ group_sentiments <- tokens %>%
   group_by(session_id, group) %>%
   summarise(mean_sentiment = mean(sentiment, na.rm = TRUE)) %>%
   left_join(sessions, "session_id") %>%
-  mutate(date = as.Date(date)) %>%
+  mutate(date = ymd(date)) %>%
   select(session_id, date, group, mean_sentiment)
 
 ggplot(group_sentiments, aes(x = date, y = mean_sentiment, group = group, color = group_sentiments$group)) +
@@ -121,7 +130,7 @@ tokens %>%
   group_by(session_id) %>%
   summarise(mean_sentiment = mean(sentiment, na.rm = TRUE)) %>%
   left_join(sessions, "session_id") %>%
-  mutate(date = as.Date(date)) %>%
+  mutate(date = ymd(date)) %>%
   select(date, mean_sentiment) %>%
     ggplot(aes(x = date, y = mean_sentiment)) +
       geom_smooth(se = TRUE, span = 0.25) +
@@ -216,7 +225,7 @@ bigram_tf_idf_sessions <- bigrams %>%
 # ---
 
 tokens %>%
-  filter(token %in% c("klimakrise", "coronakrise", "hongkong", "mali", "organspende", "eu")) %>%
+  filter(token %in% c("klimakrise", "coronakrise", "hongkong", "bildung")) %>%
   group_by(session_id) %>%
   count(token) %>%
   left_join(sessions, "session_id") %>%
@@ -225,3 +234,83 @@ tokens %>%
     geom_point() +
     geom_smooth() +
     facet_wrap(~ token, scales = "free_y")
+
+# ---
+
+top_positive_sentiment <- tokens %>%
+  distinct(token, .keep_all = TRUE) %>%
+  top_n(15, sentiment) %>%
+  select(token, sentiment)
+
+top_negative_sentiment <- tokens %>%
+  distinct(token, .keep_all = TRUE) %>%
+  top_n(-15, sentiment) %>%
+  select(token, sentiment)
+
+bind_rows(top_positive_sentiment, top_negative_sentiment) %>%
+  ggplot(aes(x = reorder(token, sentiment), y = sentiment, fill = sentiment > 0)) +
+  geom_col() +
+  coord_flip() +
+  ggtitle("Sentiments") +
+  xlab("Token") +
+  ylab("Sentiment") +
+  theme(legend.position = "none")
+
+# ---
+
+tf_idf_groups <- tokens %>%
+  filter(speaker_id != "11004393") %>% # filter out Frisian speeches
+  count(group, token) %>%
+  bind_tf_idf(token, group, n)
+
+tf_idf_groups %>%
+  filter(group != "fraktionslos") %>%
+  group_by(group) %>%
+  top_n(10, tf_idf) %>%
+  ggplot(aes(x = reorder(token, tf_idf), y = tf_idf, fill = group)) +
+    geom_col() +
+    scale_fill_manual(values = colors) +
+    coord_flip() +
+    theme(legend.position = "none") +
+    facet_wrap(~ group, scales = "free_y") +
+    ggtitle("Token mit dem höchsten Tf-idf-Maß in den Fraktionen") +
+    xlab("") +
+    ylab("Tf-idf-Maß")
+
+# ---
+
+tf_idf_speakers <- tokens %>%
+  count(speaker_id, token) %>%
+  bind_tf_idf(token, speaker_id, n)
+
+tf_idf_speakers %>%
+  left_join(speakers, "speaker_id") %>%
+  filter(speaker_id %in% c(
+    "11004724", # AfD Gauland
+    "11004930", # AfD Weidel
+    "11004097", # FDP Lindner
+    "11001235", # FDP Kubicki
+    "11002746", # GRÜ Özdemir
+    "11004245", # GRÜ Baerbock
+    "11003715", # SPD Klingbeil
+    "11004656", # CDU Amthor
+    "11004938", # CDU Ziemiak
+    "11004267", # SPD Esken
+    "11000756", # LIN Gysi
+    "11004183"  # LIN Wagenknecht
+  )) %>%
+  group_by(speaker_id) %>%
+  top_n(10, tf_idf) %>%
+  ggplot(aes(x = reorder(token, tf_idf), y = tf_idf, fill = group)) +
+  geom_col() +
+  scale_fill_manual(values = colors) +
+  coord_flip() +
+  theme(legend.position = "none") +
+  facet_wrap(~ lastname, scales = "free_y") +
+  ggtitle("Token mit dem höchsten Tf-idf-Maß nach Redner") +
+  xlab("") +
+  ylab("Tf-idf-Maß")
+  
+
+
+
