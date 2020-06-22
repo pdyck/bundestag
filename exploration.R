@@ -2,6 +2,7 @@ library(tidyverse)
 library(lubridate)
 library(tidytext)
 library(lsa)
+library(wordcloud)
 
 # Data Import
 
@@ -26,7 +27,7 @@ colors <- c(
   "fraktionslos" = "#808080"
 )
 
-# ---
+# --- Most speeches by speaker
 
 speakers %>%
   left_join(speeches, by = "speaker_id") %>%
@@ -49,7 +50,7 @@ speakers %>%
   ggplot(aes(number_of_speeches)) +
   geom_histogram(bins = 60, show.legend = FALSE)
   
-# ---
+# --- Most speeches by group
 
 speakers %>%
   left_join(speeches, by = "speaker_id") %>%
@@ -63,7 +64,7 @@ speakers %>%
     ylab("Anzahl Reden") +
     scale_fill_manual("Fraktionen", values = colors,  na.value = "grey")
  
-# ---
+# --- Most speeches by group relative to its members
 
 speeches_per_speaker.speeches <- left_join(speeches, speakers, "speaker_id") %>%
   count(group)
@@ -83,7 +84,7 @@ speeches_per_speaker %>%
     ylab("Anzahl Reden") +
     scale_fill_manual("Fraktionen", values = colors, na.value = "grey")
 
-# ---
+# --- Tokenization and stopwords
 
 tokens <- speakers %>%
   left_join(speeches, "speaker_id") %>%
@@ -95,7 +96,7 @@ tokens <- speakers %>%
   left_join(sentiments, "token") %>%
   select(session_id, group, speaker_id, speech_id, token, sentiment)
 
-# ---
+# --- Who used the most words during speeches?
 
 labertaschen <- tokens %>%
   count(speech_id) %>%
@@ -106,7 +107,7 @@ labertaschen <- tokens %>%
   select(firstname, lastname, group, mean) %>%
   arrange(desc(mean))
 
-# ---
+# --- Sentiments aggregated to groups by session
 
 group_sentiments <- tokens %>%
   filter(!is.na(group)) %>%
@@ -124,7 +125,7 @@ ggplot(group_sentiments, aes(x = date, y = mean_sentiment, group = group, color 
   xlab("Zeit") +
   ylab("Sentiment")
 
-# ---
+# --- Overall sentiment by session
 
 tokens %>%
   group_by(session_id) %>%
@@ -138,7 +139,7 @@ tokens %>%
       xlab("Zeit") +
       ylab("Sentiment")
 
-# --
+# --- Distribution of speaker sentiments in groups
 
 speaker_sentiments <- tokens %>%
   group_by(speaker_id) %>%
@@ -154,7 +155,7 @@ speaker_sentiments %>%
   scale_fill_manual("Fraktionen", values = colors, na.value = "grey") +
   facet_wrap(~group)
 
-# ---
+# --- Highest sentiment scores for tokens
 
 tokens %>%
   distinct(token, sentiment) %>%
@@ -165,13 +166,13 @@ tokens %>%
   filter(is.na(sentiment)) %>%
   arrange(desc(n))
 
-# ---
+# --- Tf-idf score by session (relevant topics in sessions)
 
 tf_idf_sessions <- tokens %>%
   count(session_id, token, sort = TRUE) %>%
   bind_tf_idf(token, session_id, n) %>%
   group_by(session_id) %>%
-  top_n(10, tf_idf) %>%
+  top_n(25, tf_idf) %>%
   left_join(sessions, "session_id") %>%
   mutate(date = as.Date(date))
 
@@ -185,19 +186,12 @@ tf_idf_sessions %>%
   xlab("Tf-idf-Maß") +
   ylab("Token")
 
-# ---
+# --- Explore relevant topics
 
 tf_idf_sessions_top_25 <- tf_idf_sessions %>%
-  ungroup() %>%
-  count(token) %>%
-  arrange(desc(n)) %>%
-  top_n(5, n) %>%
-  pull(token)
-
-tf_idf_sessions %>%
-  filter(token %in% tf_idf_sessions_top_25) %>%
-  ggplot(aes(x = date, y = tf_idf, group = token, fill = token)) +
-  geom_line()
+  group_by(token) %>%
+  summarise(n = sum(n), tf_idf = sum(tf_idf)) %>%
+  top_n(50, tf_idf)
 
 # ---
 
@@ -222,10 +216,16 @@ bigram_tf_idf_sessions <- bigrams %>%
   left_join(sessions, "session_id") %>%
   mutate(date = as.Date(date))
 
+bigram_tf_idf_sessions_top <- bigram_tf_idf_sessions %>%
+  group_by(bigram) %>%
+  summarise(n = sum(n), tf_idf = sum(tf_idf)) %>%
+  top_n(50, tf_idf) %>%
+  arrange(desc(tf_idf))
+
 # ---
 
 tokens %>%
-  filter(token %in% c("klimakrise", "coronakrise", "hongkong", "bildung")) %>%
+  filter(token %in% c("co2", "mietpreisbremse", "pandemie", "haushalt", "bundeswehr", "bafög")) %>%
   group_by(session_id) %>%
   count(token) %>%
   left_join(sessions, "session_id") %>%
@@ -233,7 +233,10 @@ tokens %>%
   ggplot(aes(x = date, y = count)) +
     geom_point() +
     geom_smooth() +
-    facet_wrap(~ token, scales = "free_y")
+    facet_wrap(~ token) +
+    ggtitle("Häufigkeit von Token") +
+    xlab("Datum") +
+    ylab("Anzahl")
 
 # ---
 
@@ -311,6 +314,82 @@ tf_idf_speakers %>%
   xlab("") +
   ylab("Tf-idf-Maß")
   
+# ---
 
+sentiments_speakers_afd <- tokens %>%
+  filter(group == "AfD") %>%
+  group_by(speaker_id) %>%
+  summarise(mean_sentiment = mean(sentiment, na.rm = TRUE))
 
+tf_idf_speakers_afd <- tokens %>%
+  filter(group == "AfD") %>%
+  count(speaker_id, token) %>%
+  bind_tf_idf(token, speaker_id, n)
 
+tf_idf_speakers_afd %>%
+  left_join(speakers, "speaker_id") %>%
+  group_by(speaker_id) %>%
+  top_n(10, tf_idf) %>%
+  ggplot(aes(x = reorder(token, tf_idf), y = tf_idf, fill = group)) +
+  geom_col() +
+  scale_fill_manual(values = colors) +
+  coord_flip() +
+  theme(legend.position = "none") +
+  facet_wrap(~ lastname, scales = "free_y")
+
+tf_idf_groups %>%
+  filter(group == "AfD") %>%
+  with(wordcloud(token, tf_idf, random.order = FALSE, max.words = 50))
+
+# ---
+
+mentions <- speakers %>%
+  mutate(token = tolower(lastname)) %>%
+  filter(!token %in% c("weiß", "lange", "schön", "grund", "ernst", "neu", "klare", "kraft", "müller", "frei", "groß")) %>%
+  left_join(tokens, "token") %>%
+  select(session_id, speech_id, mentioned_by = speaker_id.y, mentioned = speaker_id.x)
+
+mentions %>%
+  count(mentioned, sort = TRUE) %>%
+  mutate(speaker_id = mentioned) %>%
+  left_join(speakers, "speaker_id")
+
+mentions %>%
+  filter(mentioned == "11001478") %>%
+  mutate(speaker_id = mentioned_by) %>%
+  left_join(speakers, "speaker_id") %>%
+  count(group)
+
+mentions %>%
+  mutate(speaker_id = mentioned_by) %>%
+  left_join(speakers, "speaker_id") %>%
+  count(group)
+
+mentions %>%
+  mutate(speaker_id = mentioned) %>%
+  left_join(speakers, "speaker_id") %>%
+  count(lastname, sort = TRUE)
+
+# ---
+
+gendered_tokens <- tokens %>%
+  filter(endsWith(token, "innen")) %>%
+  filter(!token %in% c(
+    "beginnen", "zurückgewinnen", "darinnen", "entrinnen", "erkenntnisgewinnen", "jahresgewinnen", "abzugewinnen",
+    "effizienzgewinnen", "weiterspinnen", "hallenserinnen", "städterinnen", "rationalisierungsgewinnen", "fortspinnen",
+    "entsinnen", "spinnen", "besinnen", "zurückzugewinnen", "zurückbesinnen", "sinnen", "finnen", "binnen", "ansinnen",
+    "innen", "drinnen", "gewinnen", "abgewinnen", "zinsgewinnen", "buchgewinnen", "bankgewinnen", "umverteilungsgewinnen"
+  ))
+  
+tokens %>%
+  count(group) %>%
+  left_join(gendered_tokens %>% count(group), "group") %>%
+  mutate(ratio = n.y / n.x) %>%
+  arrange(desc(ratio)) %>%
+  ggplot(aes(x = reorder(group, -ratio), y = ratio, fill = group)) +
+  geom_col() +
+  scale_fill_manual(values = colors) +
+  theme(legend.position = "none") +
+  ggtitle("Verhätnis von gegenderten Wörtern zu allen Wörtern") +
+  xlab("Fraktion") +
+  ylab("Verhältnis")
