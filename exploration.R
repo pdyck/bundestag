@@ -193,7 +193,7 @@ tf_idf_sessions_top_25 <- tf_idf_sessions %>%
   summarise(n = sum(n), tf_idf = sum(tf_idf)) %>%
   top_n(50, tf_idf)
 
-# ---
+# --- Explore bigrams
 
 bigrams <- speakers %>%
   left_join(speeches, "speaker_id") %>%
@@ -222,7 +222,7 @@ bigram_tf_idf_sessions_top <- bigram_tf_idf_sessions %>%
   top_n(50, tf_idf) %>%
   arrange(desc(tf_idf))
 
-# ---
+# --- Frequency of selected tokens in sessions
 
 tokens %>%
   filter(token %in% c("co2", "mietpreisbremse", "pandemie", "haushalt", "bundeswehr", "bafög")) %>%
@@ -238,7 +238,7 @@ tokens %>%
     xlab("Datum") +
     ylab("Anzahl")
 
-# ---
+# --- Top positive and negative sentiment tokens in corpus
 
 top_positive_sentiment <- tokens %>%
   distinct(token, .keep_all = TRUE) %>%
@@ -259,7 +259,7 @@ bind_rows(top_positive_sentiment, top_negative_sentiment) %>%
   ylab("Sentiment") +
   theme(legend.position = "none")
 
-# ---
+# --- Tf-idf for groups
 
 tf_idf_groups <- tokens %>%
   filter(speaker_id != "11004393") %>% # filter out Frisian speeches
@@ -280,7 +280,7 @@ tf_idf_groups %>%
     xlab("") +
     ylab("Tf-idf-Maß")
 
-# ---
+# --- Tf-idf for selected speakers
 
 tf_idf_speakers <- tokens %>%
   count(speaker_id, token) %>%
@@ -314,7 +314,7 @@ tf_idf_speakers %>%
   xlab("") +
   ylab("Tf-idf-Maß")
   
-# ---
+# --- AfD specific tf-idf analysis
 
 sentiments_speakers_afd <- tokens %>%
   filter(group == "AfD") %>%
@@ -341,7 +341,7 @@ tf_idf_groups %>%
   filter(group == "AfD") %>%
   with(wordcloud(token, tf_idf, random.order = FALSE, max.words = 50))
 
-# ---
+# --- Speakers that were mentioned by other speakers
 
 mentions <- speakers %>%
   mutate(token = tolower(lastname)) %>%
@@ -370,7 +370,7 @@ mentions %>%
   left_join(speakers, "speaker_id") %>%
   count(lastname, sort = TRUE)
 
-# ---
+# --- Gendering
 
 gendered_tokens <- tokens %>%
   filter(endsWith(token, "innen")) %>%
