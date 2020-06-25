@@ -147,12 +147,14 @@ speaker_sentiments <- tokens %>%
   left_join(speakers, "speaker_id")
 
 speaker_sentiments %>%
+  filter(!group %in% c("fraktionslos", NA)) %>%
   ggplot(aes(x = mean_sentiment, fill = group)) +
   geom_histogram(bins = 50) +
-  ggtitle("Sentiment der MdB") +
+  ggtitle("Durchschnittlicher Sentiment der Redner in den Fraktionen") +
   xlab("Sentiment") +
-  ylab("Anzahl MdB") +
-  scale_fill_manual("Fraktionen", values = colors, na.value = "grey") +
+  ylab("Anzahl Redner") +
+  scale_fill_manual(values = colors) +
+  theme(legend.position = "none") +
   facet_wrap(~group)
 
 # --- Highest sentiment scores for tokens
@@ -339,7 +341,19 @@ tf_idf_speakers_afd %>%
 
 tf_idf_groups %>%
   filter(group == "AfD") %>%
-  with(wordcloud(token, tf_idf, random.order = FALSE, max.words = 50))
+  with(wordcloud(token, tf_idf, random.order = FALSE, max.words = 25))
+
+tf_idf_groups %>%
+  filter(group == "AfD") %>%
+  top_n(25, tf_idf) %>%
+  ggplot(aes(x = reorder(token, tf_idf), y = tf_idf, fill = group)) +
+  geom_col() +
+  coord_flip() +
+  ggtitle("Wörter mit höchstem Tf-idf-Maß für die AfD im Vergleich mit anderen Fraktionen") +
+  xlab("Token") +
+  ylab("Tf-idf-Maß") +
+  scale_fill_manual(values = colors) +
+  theme(legend.position = "none")
 
 # --- Speakers that were mentioned by other speakers
 
@@ -382,6 +396,7 @@ gendered_tokens <- tokens %>%
   ))
   
 tokens %>%
+  filter(!group %in% c("fraktionslos", NA)) %>%
   count(group) %>%
   left_join(gendered_tokens %>% count(group), "group") %>%
   mutate(ratio = n.y / n.x) %>%
@@ -390,6 +405,61 @@ tokens %>%
   geom_col() +
   scale_fill_manual(values = colors) +
   theme(legend.position = "none") +
-  ggtitle("Verhätnis von gegenderten Wörtern zu allen Wörtern") +
+  ggtitle("Verhätnis von geschlechtsgerechten Wörtern zu allen Wörtern") +
   xlab("Fraktion") +
   ylab("Verhältnis")
+
+# --- AfD rejecting elites
+
+tokens %>%
+  filter(!group %in% c("fraktionslos", NA)) %>%
+  filter(grepl("sogenannt", token, fixed = TRUE)) %>%
+  group_by(group) %>%
+  count() %>%
+  left_join(tokens %>% count(group), "group") %>%
+  mutate(ratio = n.x / n.y) %>%
+  arrange(desc(ratio)) %>%
+  ggplot(aes(x = reorder(group, -ratio), y = ratio, fill = group)) +
+  geom_col() +
+  scale_fill_manual(values = colors) +
+  theme(legend.position = "none") +
+  ggtitle("Verhältnis von \"sogenannte(r)\" zu allen Wörtern") +
+  xlab("Fraktion") +
+  ylab("Verhältnis")
+
+# --- AfD most negative sentiment impact
+
+tokens %>%
+  filter(group == "AfD") %>%
+  count(token) %>%
+  left_join(sentiments, "token") %>%
+  mutate(impact = n * sentiment, group = "AfD") %>%
+  arrange(impact) %>%
+  top_n(-50, impact) %>%
+  ggplot(aes(x = reorder(token, -impact), y = impact, fill = group)) +
+  geom_col() +
+  scale_fill_manual(values = colors) +
+  theme(legend.position = "none") +
+  coord_flip() +
+  ggtitle("Wörter mit dem stärksten Einfluss auf das Sentiment") +
+  xlab("Token") +
+  ylab("Einfluss auf das Sentiment")
+
+# --- People's will
+
+tokens %>%
+  filter(!group %in% c("fraktionslos", NA)) %>%
+  filter(grepl("volk", token, fixed = TRUE) | grepl("bürger", token, fixed = TRUE)) %>%
+  count(group) %>%
+  left_join(tokens %>% count(group), "group") %>%
+  mutate(ratio = n.x / n.y) %>%
+  arrange(desc(ratio)) %>%
+  ggplot(aes(x = reorder(group, -ratio), y = ratio, fill = group)) +
+  geom_col() +
+  scale_fill_manual(values = colors) +
+  theme(legend.position = "none") +
+  ggtitle("Verhältnis \"volk\"/\"bürger\" zu allen Wörtern") +
+  xlab("Fraktion") +
+  ylab("Verhältnis")
+
+  
